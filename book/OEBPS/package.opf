@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" version="3.0" xml:lang="en" unique-identifier="pub-identifier">
+  <metadata>
+    <dc:identifier id="pub-identifier">_simple_book</dc:identifier>
+    <meta id="meta-identifier" property="dcterms:identifier">_simple_book</meta>
+    <dc:title id="pub-title">Brave New World</dc:title>
+    <meta property="dcterms:title" id="meta-title">Brave New World</meta>
+    <dc:language id="pub-language">en</dc:language>
+    <meta property="dcterms:language" id="meta-language">en</meta>
+    <meta property="dcterms:modified">2014-12-29T19:13:08Z</meta>
+    <!--The preceding date value is actually local time (not UTC) in UTC format because there is no function in XSLT 1.0 to generate a correct UTC time-->
+    <meta content="cover-image" name="cover"/>
+    <meta id="meta-creator2" property="dcterms:creator">Aldous Huxley</meta>
+    <dc:creator id="pub-creator2">Aldous Huxley</dc:creator>
+    <meta property="dcterms:date">2014-12-29</meta>
+    <dc:date>2014-12-29</dc:date>
+    <meta property="dcterms:publisher">epubBooks Classics</meta>
+    <dc:publisher>epubBooks Classics</dc:publisher>
+    <meta property="dcterms:rights">Copyright © 2014 epubBooks</meta>
+    <dc:rights>Copyright © 2014 epubBooks</dc:rights>
+    <meta property="dcterms:rightsHolder">epubBooks</meta>
+    <meta property="dcterms:subject">Science Fiction</meta>
+    <dc:subject>Science Fiction</dc:subject>
+    <meta property="dcterms:subject">Dystopian Fiction</meta>
+    <dc:subject>Dystopian Fiction</dc:subject>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="htmltoc" properties="nav" media-type="application/xhtml+xml" href="bk01-toc.xhtml"/>
+    <item media-type="text/css" id="html-css" href="epubbooks.css"/>
+    <item media-type="text/css" id="docbook-css" href="docbook-epub.css"/>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover-image" properties="cover-image" href="bookcover-generated.jpg" media-type="image/jpeg"/>
+    <item id="id-idp140344214732736" href="index.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344213853136" href="ch01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344215476048" href="ch02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344212955984" href="ch03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344211917536" href="ch04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344214336112" href="ch04s01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344214743856" href="ch04s02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344226668640" href="ch05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344211589232" href="ch05s01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344214390016" href="ch05s02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344211908768" href="ch06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344214089072" href="ch06s01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344214517984" href="ch06s02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344213846896" href="ch06s03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344211998544" href="ch07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344215682448" href="ch08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344214734976" href="ch09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344256923168" href="ch10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344247117760" href="ch11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344249631104" href="ch12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344257533568" href="ch13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344214744800" href="ch14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344212019376" href="ch15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344252995472" href="ch16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344257345024" href="ch17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="id-idp140344256406352" href="ch18.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no"/>
+    <itemref idref="htmltoc" linear="yes"/>
+    <itemref idref="id-idp140344214732736"/>
+    <itemref idref="id-idp140344213853136"/>
+    <itemref idref="id-idp140344215476048"/>
+    <itemref idref="id-idp140344212955984"/>
+    <itemref idref="id-idp140344211917536"/>
+    <itemref idref="id-idp140344214336112"/>
+    <itemref idref="id-idp140344214743856"/>
+    <itemref idref="id-idp140344226668640"/>
+    <itemref idref="id-idp140344211589232"/>
+    <itemref idref="id-idp140344214390016"/>
+    <itemref idref="id-idp140344211908768"/>
+    <itemref idref="id-idp140344214089072"/>
+    <itemref idref="id-idp140344214517984"/>
+    <itemref idref="id-idp140344213846896"/>
+    <itemref idref="id-idp140344211998544"/>
+    <itemref idref="id-idp140344215682448"/>
+    <itemref idref="id-idp140344214734976"/>
+    <itemref idref="id-idp140344256923168"/>
+    <itemref idref="id-idp140344247117760"/>
+    <itemref idref="id-idp140344249631104"/>
+    <itemref idref="id-idp140344257533568"/>
+    <itemref idref="id-idp140344214744800"/>
+    <itemref idref="id-idp140344212019376"/>
+    <itemref idref="id-idp140344252995472"/>
+    <itemref idref="id-idp140344257345024"/>
+    <itemref idref="id-idp140344256406352"/>
+  </spine>
+  <guide>
+    <reference href="cover.xhtml" type="cover" title="Cover"/>
+    <reference href="bk01-toc.xhtml" type="toc" title="Table of Contents"/>
+  </guide>
+</package>
