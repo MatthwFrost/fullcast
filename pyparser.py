@@ -96,5 +96,6 @@ class builder:
 
     # Sentiment analysis? Is there anything else?
     # This will be important.
-    def getEmotion():
+    # The wider range of emotions, the better.
+    def getEmotion(self):
         pass
