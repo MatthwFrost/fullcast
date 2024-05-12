@@ -25,24 +25,28 @@ class builder:
         self.cast = cast
 
     def buildIntructions(self):
-        print("Setting up...")
+
         with open(self.path, 'r', encoding='utf-8') as file:
             html_content = file.read()
 
+        # Parse the HTML and then search for all p tags.
         soup = BeautifulSoup(html_content, features="xml")
         tag = soup.find_all('p')
         preCharacter = None
 
+        # Loop through the p tags, and get the text inside them.
         for content in tag:
             text = content.get_text()
-            quote = self.find_quotes(text)
-            character = self.find_character(text, quote, self.cast, preCharacter)
-            narratorBefore, narratorAfter = self.get_narrator_text(text, quote)
+
+            quote = self.findQuotes(text)                                           # Find a quote.
+            character = self.findCharacter(text, quote, self.cast, preCharacter)    # Find the character speaking.
+            narratorBefore, narratorAfter = self.getNarratorText(text, quote)       # Find the narrator speech.
+            #emotion = getEmotion()                                                 # Get the character emotion.
+
+            # Improve output. Currently primitive.
             if character:
-
-                gender = character["gender"]
-                preCharacter = character  # Update previous character
-
+                gender = character["gender"]    # Find the gender
+                preCharacter = character        # Update previous character
                 if quote:
                     if narratorBefore:
                         print(f"<p data-character=\"narrator\" data-gender=\"{gender}\" emotion=\"none\">{narratorBefore}</p>")
@@ -53,19 +57,20 @@ class builder:
                         print(f"<p data-character=\"narrator\" data-gender=\"{gender}\" emotion=\"none\">{narratorAfter}</p>")
             else:
                 print(f"<p data-character=\"narrator\" data-gender=\"m\" emotion=\"none\">{text}</p>")
-    def find_quotes(self, text):
+
+    def findQuotes(self, text):
         quote = ""
         inQuotes = False
         for i, char in enumerate(text):
             if char == '"' and (i == 0 or text[i-1] != '\\'):
                 inQuotes = not inQuotes # Flips bool: if true, now equals false.
-                quote += char
+                quote += char # We still want the ""
                 continue
             if inQuotes:
                 quote += char
         return quote 
 
-    def find_character(self, text, quote, cast, preCharacter):
+    def findCharacter(self, text, quote, cast, preCharacter):
         text = text.replace(quote, '').lower()
 
         foundCharacter = None
@@ -80,7 +85,7 @@ class builder:
 
         return foundCharacter if foundCharacter else preCharacter
 
-    def get_narrator_text(self, text, substring):
+    def getNarratorText(self, text, substring):
         index = text.find(substring)
         
         if index != -1:
@@ -91,5 +96,5 @@ class builder:
 
     # Sentiment analysis? Is there anything else?
     # This will be important.
-    def get_emoiton():
+    def getEmotion():
         pass
