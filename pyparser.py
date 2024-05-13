@@ -18,7 +18,7 @@ class builder:
             Emotion - What does the speaker have?
 
         Problems:
-            Code is very slow. I have no idea what the project will look yet 
+            Code is very slow. I have no idea what the project will look yet
     """
     def __init__(self, path: str, cast: dict):
         self.path = path
@@ -43,20 +43,7 @@ class builder:
             narratorBefore, narratorAfter = self.getNarratorText(text, quote)       # Find the narrator speech.
             #emotion = getEmotion()                                                 # Get the character emotion.
 
-            # Improve output. Currently primitive.
-            if character:
-                gender = character["gender"]    # Find the gender
-                preCharacter = character        # Update previous character
-                if quote:
-                    if narratorBefore:
-                        print(f"<p data-character=\"narrator\" data-gender=\"{gender}\" emotion=\"none\">{narratorBefore}</p>")
-
-                    print(f"<p data-character=\"{character['name']}\" data-gender=\"{gender}\" emotion=\"none\">{quote}</p>")
-
-                    if narratorAfter:
-                        print(f"<p data-character=\"narrator\" data-gender=\"{gender}\" emotion=\"none\">{narratorAfter}</p>")
-            else:
-                print(f"<p data-character=\"narrator\" data-gender=\"m\" emotion=\"none\">{text}</p>")
+            self.writeOutput(quote, character, narratorBefore, narratorAfter, text)
 
     def findQuotes(self, text):
         quote = ""
@@ -68,7 +55,7 @@ class builder:
                 continue
             if inQuotes:
                 quote += char
-        return quote 
+        return quote
 
     def findCharacter(self, text, quote, cast, preCharacter):
         text = text.replace(quote, '').lower()
@@ -87,7 +74,6 @@ class builder:
 
     def getNarratorText(self, text, substring):
         index = text.find(substring)
-        
         if index != -1:
             end_index = index + len(substring)
             return text[:index], text[end_index:]
@@ -99,3 +85,21 @@ class builder:
     # The wider range of emotions, the better.
     def getEmotion(self):
         pass
+
+    def writeOutput(self, quote, character, narratorBefore, narratorAfter, text):
+        # Improve output. Currently primitive.
+        # Cast the output to a file with bash, ex python3 main.py > example.html <- Works for now.
+        if character:
+            gender = character["gender"]    # Find the gender
+            preCharacter = character        # Update previous character
+            if quote:
+                if narratorBefore:
+                    print(f"<p data-character=\"narrator\" data-gender=\"{gender}\" emotion=\"none\">{narratorBefore}</p>")
+
+                print(f"<p data-character=\"{character['name']}\" data-gender=\"{gender}\" emotion=\"none\">{character['name']}: {quote}</p>")
+
+                if narratorAfter:
+                    print(f"<p data-character=\"narrator\" data-gender=\"{gender}\" emotion=\"none\">{narratorAfter}</p>")
+        else:
+            print(f"<p data-character=\"narrator\" data-gender=\"m\" emotion=\"none\">{text}</p>")
+
