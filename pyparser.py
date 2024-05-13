@@ -23,6 +23,7 @@ class builder:
     def __init__(self, path: str, cast: dict):
         self.path = path
         self.cast = cast
+        self.writePath = "Ch01Example.xml"
 
     def buildIntructions(self):
 
@@ -46,6 +47,7 @@ class builder:
             self.writeOutput(quote, character, narratorBefore, narratorAfter, text)
 
     def findQuotes(self, text):
+        # TODO: Doesn't get narrator text between a quote.
         quote = ""
         inQuotes = False
         for i, char in enumerate(text):
@@ -80,26 +82,28 @@ class builder:
         else:
             return None, None
 
-    # Sentiment analysis? Is there anything else?
-    # This will be important.
-    # The wider range of emotions, the better.
     def getEmotion(self):
+        """
+        Sentiment analysis? Is there anything else?
+        This will be important.
+        The wider range of emotions, the better.
+        """
         pass
 
     def writeOutput(self, quote, character, narratorBefore, narratorAfter, text):
         # Improve output. Currently primitive.
         # Cast the output to a file with bash, ex python3 main.py > example.html <- Works for now.
-        if character:
-            gender = character["gender"]    # Find the gender
-            preCharacter = character        # Update previous character
-            if quote:
+        with open(self.writePath, "a") as f:
+            if character:
+                gender = character["gender"]    # Find the gender
+                preCharacter = character        # Update previous character
+
                 if narratorBefore:
-                    print(f"<p data-character=\"narrator\" data-gender=\"{gender}\" emotion=\"none\">{narratorBefore}</p>")
-
-                print(f"<p data-character=\"{character['name']}\" data-gender=\"{gender}\" emotion=\"none\">{character['name']}: {quote}</p>")
-
+                    f.write(f'<p data-character="narrator" data-gender="{gender}" emotion="none">{narratorBefore}</p>')
+                if quote:
+                    f.write(f'<p data-character="{character["name"]}" data-gender="{gender}" emotion="none">{character["name"]}: {quote}</p>')
                 if narratorAfter:
-                    print(f"<p data-character=\"narrator\" data-gender=\"{gender}\" emotion=\"none\">{narratorAfter}</p>")
-        else:
-            print(f"<p data-character=\"narrator\" data-gender=\"m\" emotion=\"none\">{text}</p>")
-
+                    f.write(f'<p data-character="narrator" data-gender="{gender}" emotion="none">{narratorAfter}</p>')
+            else:
+                f.write(f'<p data-character="narrator" data-gender="m" emotion="none">{text}</p>')
+        f.close()
