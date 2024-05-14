@@ -20,16 +20,17 @@ class builder:
         Problems:
             Code is very slow. I have no idea what the project will look yet
     """
-    def __init__(self, path: str, cast: list) -> None:
+    def __init__(self, path: str, cast: list, exportPath: str) -> None:
         self.path = path
         self.cast = cast
-        self.writePath = "Ch01Example.xml"
+        self.exportPath = exportPath
+        self.writeTitle = "Ch01Example.xml"
 
     def buildIntructions(self) -> None:
 
         with open(self.path, 'r', encoding='utf-8') as file:
             html_content = file.read()
-            fikle.close()
+            file.close()
 
         # Parse the HTML and then search for all p tags.
         soup = BeautifulSoup(html_content, features="xml")
@@ -93,7 +94,7 @@ class builder:
     def writeOutput(self, quote: str, character: dict, narratorBefore: str, narratorAfter: str, text: str) -> None:
         # Improve output. Currently primitive.
         # Cast the output to a file with bash, ex python3 main.py > example.html <- Works for now.
-        with open(self.writePath, "a") as f:
+        with open(self.exportPath + self.writeTitle, "a") as f:
             if character:
                 gender = character["gender"]    # Find the gender
                 preCharacter = character        # Update previous character
