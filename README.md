@@ -1,4 +1,5 @@
-# Fullcast 
+# Fullcast - Early
+Audio book can be generated from start to finish. Only needing to create a character profile. Next, add more emotion.
 
 ## Goals
 - Automate whole process.
@@ -33,3 +34,4 @@ python3 -m venv venv
 ```
 source ./venv/bin/activate
 ```
+

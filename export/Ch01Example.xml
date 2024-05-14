@@ -1,7 +1,6 @@
-<p data-character="narrator" data-gender="m" emotion="none">A squat grey building of only thirty–four stories. Over
+<p data-character="narrator" data-gender="m" emotion="none" index="0">A squat grey building of only thirty–four stories. Over
             the main entrance the words, CENTRAL LONDON HATCHERY AND CONDITIONING CENTRE,
-            and, in a shield, the World State's motto, COMMUNITY, IDENTITY, STABILITY.
-        </p><p data-character="narrator" data-gender="m" emotion="none">The enormous room on the ground floor faced towards the north. Cold for
+            and, in a shield, the World State's motto, COMMUNITY, IDENTITY, STABILITY.</p><p data-character="narrator" data-gender="m" emotion="none" index="1">The enormous room on the ground floor faced towards the north. Cold for
             all the summer beyond the panes, for all the tropical heat of the room itself,
             a harsh thin light glared through the windows, hungrily seeking some draped
             lay figure, some pallid shape of academic goose–flesh, but finding only the
@@ -10,7 +9,7 @@
             gloved with a pale corpse–coloured rubber. The light was frozen, dead, a
             ghost. Only from the yellow barrels of the microscopes did it borrow a certain
             rich and living substance, lying along the polished tubes like butter, streak
-            after luscious streak in long recession down the work tables.</p><p data-character="the director" data-gender="m" emotion="none">the director: "And this,""is the Fertilizing Room."</p><p data-character="narrator" data-gender="m" emotion="none">Bent over their instruments, three hundred Fertilizers were plunged, as
+            after luscious streak in long recession down the work tables.</p><p data-character="the director" data-gender="m" emotion="none" index="2">"And this,"</p><p data-character="narrator" data-gender="m" emotion="none" index="2">" said the Director opening the door,</p><p data-character="the director" data-gender="m" emotion="none" index="2">"is the Fertilizing Room."</p><p data-character="narrator" data-gender="m" emotion="none" index="2">"</p><p data-character="narrator" data-gender="m" emotion="none" index="3">Bent over their instruments, three hundred Fertilizers were plunged, as
             the Director of Hatcheries and Conditioning entered the room, in the scarcely
             breathing silence, the absent–minded, soliloquizing hum or whistle, of
             absorbed concentration. A troop of newly arrived students, very young, pink
@@ -18,31 +17,31 @@
             of them carried a notebook, in which, whenever the great man spoke, he
             desperately scribbled. Straight from the horse's mouth. It was a rare
             privilege. The D. H. C. for Central London always made a point of personally
-            conducting his new students round the various departments.</p><p data-character="narrator" data-gender="m" emotion="none">"Just to give you a general idea," he would explain to them. For of course
+            conducting his new students round the various departments.</p><p data-character="the director" data-gender="m" emotion="none" index="4">"Just to give you a general idea,"</p><p data-character="narrator" data-gender="m" emotion="none" index="4">" he would explain to them. For of course
             some sort of general idea they must have, if they were to do their work
             intelligently–though as little of one, if they were to be good and happy
             members of society, as possible. For particulars, as every one knows, make for
             virtue and happiness; generalities are intellectually necessary evils. Not
             philosophers but fret–sawyers and stamp collectors compose the backbone of
-            society.</p><p data-character="narrator" data-gender="m" emotion="none">"To–morrow," he would add, smiling at them with a slightly menacing
-            geniality, "you'll be settling down to serious work. You won't have time for
-            generalities. Meanwhile…"</p><p data-character="narrator" data-gender="m" emotion="none">Meanwhile, it was a privilege. Straight from the horse's mouth into the
-            notebook. The boys scribbled like mad.</p><p data-character="narrator" data-gender="m" emotion="none">Tall and rather thin but upright, the Director advanced into the room. He
+            society.</p><p data-character="the director" data-gender="m" emotion="none" index="5">"To–morrow,"</p><p data-character="narrator" data-gender="m" emotion="none" index="5">" he would add, smiling at them with a slightly menacing
+            geniality,</p><p data-character="the director" data-gender="m" emotion="none" index="5">"you'll be settling down to serious work. You won't have time for
+            generalities. Meanwhile…"</p><p data-character="narrator" data-gender="m" emotion="none" index="5">"</p><p data-character="narrator" data-gender="m" emotion="none" index="6">Meanwhile, it was a privilege. Straight from the horse's mouth into the
+            notebook. The boys scribbled like mad.</p><p data-character="narrator" data-gender="m" emotion="none" index="7">Tall and rather thin but upright, the Director advanced into the room. He
             had a long chin and big rather prominent teeth, just covered, when he was not
             talking, by his full, floridly curved lips. Old, young? Thirty? Fifty?
             Fifty–five? It was hard to say. And anyhow the question didn't arise; in this
-            year of stability, A. F. 632, it didn't occur to you to ask it.</p><p data-character="narrator" data-gender="m" emotion="none">"I shall begin at the beginning," said the D.H.C. and the more zealous
+            year of stability, A. F. 632, it didn't occur to you to ask it.</p><p data-character="the director" data-gender="m" emotion="none" index="8">"I shall begin at the beginning,"</p><p data-character="narrator" data-gender="m" emotion="none" index="8">" said the D.H.C. and the more zealous
             students recorded his intention in their notebooks: Begin at the
-                    beginning. "These," he waved his hand, "are the incubators." And opening
-            an insulated door he showed them racks upon racks of numbered test–tubes. "The
-            week's supply of ova. Kept," he explained, "at blood heat; whereas the male
-            gametes," and here he opened another door, "they have to be kept at
-            thirty–five instead of thirty–seven. Full blood heat sterilizes." Rams wrapped
-            in theremogene beget no lambs.</p><p data-character="narrator" data-gender="m" emotion="none">Still leaning against the incubators he gave them, while the pencils
+                    beginning.</p><p data-character="the director" data-gender="m" emotion="none" index="8">"These,"</p><p data-character="narrator" data-gender="m" emotion="none" index="8">" he waved his hand,</p><p data-character="the director" data-gender="m" emotion="none" index="8">"are the incubators."</p><p data-character="narrator" data-gender="m" emotion="none" index="8">" And opening
+            an insulated door he showed them racks upon racks of numbered test–tubes.</p><p data-character="the director" data-gender="m" emotion="none" index="8">"The
+            week's supply of ova. Kept,"</p><p data-character="narrator" data-gender="m" emotion="none" index="8">" he explained,</p><p data-character="the director" data-gender="m" emotion="none" index="8">"at blood heat; whereas the male
+            gametes,"</p><p data-character="narrator" data-gender="m" emotion="none" index="8">" and here he opened another door,</p><p data-character="the director" data-gender="m" emotion="none" index="8">"they have to be kept at
+            thirty–five instead of thirty–seven. Full blood heat sterilizes."</p><p data-character="narrator" data-gender="m" emotion="none" index="8">" Rams wrapped
+            in theremogene beget no lambs.</p><p data-character="narrator" data-gender="m" emotion="none" index="9">Still leaning against the incubators he gave them, while the pencils
             scurried illegibly across the pages, a brief description of the modern
-            fertilizing process; spoke first, of course, of its surgical introduction–"the
+            fertilizing process; spoke first, of course, of its surgical introduction–</p><p data-character="the director" data-gender="m" emotion="none" index="9">"the
             operation undergone voluntarily for the good of Society, not to mention the
-            fact that it carries a bonus amounting to six months' salary"; continued with
+            fact that it carries a bonus amounting to six months' salary"</p><p data-character="narrator" data-gender="m" emotion="none" index="9">"; continued with
             some account of the technique for preserving the excised ovary alive and
             actively developing; passed on to a consideration of optimum temperature,
             salinity, viscosity; referred to the liquor in which the detached and ripened
@@ -59,14 +58,14 @@
             how the fertilized ova went back to the incubators; where the Alphas and Betas
             remained until definitely bottled; while the Gammas, Deltas and Epsilons were
             brought out again, after only thirty–six hours, to undergo Bokanovsky's
-            Process.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Bokanovsky's Process,"</p><p data-character="narrator" data-gender="m" emotion="none"> repeated the Director, and the students underlined
-            the words in their little notebooks.</p><p data-character="narrator" data-gender="m" emotion="none">One egg, one embryo, one adult–normality. But a bokanovskified egg will
+            Process.</p><p data-character="the director" data-gender="m" emotion="none" index="10">"Bokanovsky's Process,"</p><p data-character="narrator" data-gender="m" emotion="none" index="10">" repeated the Director, and the students underlined
+            the words in their little notebooks.</p><p data-character="narrator" data-gender="m" emotion="none" index="11">One egg, one embryo, one adult–normality. But a bokanovskified egg will
             bud, will proliferate, will divide. From eight to ninety–six buds, and every
             bud will grow into a perfectly formed embryo, and every embryo into a
             full–sized adult. Making ninety–six human beings grow where only one grew
-            before. Progress.</p><p data-character="narrator" data-gender="m" emotion="none">"Essentially," the D.H.C. concluded, "bokanovskification consists of a
+            before. Progress.</p><p data-character="the director" data-gender="m" emotion="none" index="12">"Essentially,"</p><p data-character="narrator" data-gender="m" emotion="none" index="12">" the D.H.C. concluded,</p><p data-character="the director" data-gender="m" emotion="none" index="12">"bokanovskification consists of a
             series of arrests of development. We check the normal growth and,
-            paradoxically enough, the egg responds by budding."</p><p data-character="narrator" data-gender="m" emotion="none">Responds by budding. The pencils were busy.</p><p data-character="narrator" data-gender="m" emotion="none">He pointed. On a very slowly moving band a rack–full of test–tubes was
+            paradoxically enough, the egg responds by budding."</p><p data-character="narrator" data-gender="m" emotion="none" index="12">"</p><p data-character="narrator" data-gender="m" emotion="none" index="13">Responds by budding. The pencils were busy.</p><p data-character="narrator" data-gender="m" emotion="none" index="14">He pointed. On a very slowly moving band a rack–full of test–tubes was
             entering a large metal box, another, rack–full was emerging. Machinery faintly
             purred. It took eight minutes for the tubes to go through, he told them. Eight
             minutes of hard X–rays being about as much as an egg can stand. A few died; of
@@ -80,76 +79,85 @@
             anything from eight to ninety–six embryos– a prodigious improvement, you will
             agree, on nature. Identical twins–but not in piddling twos and threes as in
             the old viviparous days, when an egg would sometimes accidentally divide;
-            actually by dozens, by scores at a time.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Scores,""Scores."</p><p data-character="narrator" data-gender="m" emotion="none">But one of the students was fool enough to ask where the advantage lay.</p><p data-character="the director" data-gender="m" emotion="none">the director: "My good boy!""Can't you see?
-            Can't you see?""Bokanovsky's
-            Process is one of the major instruments of social stability!"</p><p data-character="narrator" data-gender="m" emotion="none">Major instruments of social stability.</p><p data-character="narrator" data-gender="m" emotion="none">Standard men and women; in uniform batches. The whole of a small factory
-            staffed with the products of a single bokanovskified egg.</p><p data-character="narrator" data-gender="m" emotion="none">"Ninety–six identical twins working ninety–six identical machines!" The
-            voice was almost tremulous with enthusiasm. "You really know where you are.
-            For the first time in history." He quoted the planetary motto. "Community,
-            Identity, Stability." Grand words. "If we could bokanovskify indefinitely the
-            whole problem would be solved."</p><p data-character="narrator" data-gender="m" emotion="none">Solved by standard Gammas, unvarying Deltas, uniform Epsilons. Millions of
-            identical twins. The principle of mass production at last applied to biology.</p><p data-character="the director" data-gender="m" emotion="none">the director: "But, alas,""we can't bokanovskify
-            indefinitely."</p><p data-character="narrator" data-gender="m" emotion="none">Ninety–six seemed to be the limit; seventy–two a good average. From the
+            actually by dozens, by scores at a time.</p><p data-character="the director" data-gender="m" emotion="none" index="15">"Scores,"</p><p data-character="narrator" data-gender="m" emotion="none" index="15">" the Director repeated and flung out his arms, as though he were
+            distributing largesse.</p><p data-character="the director" data-gender="m" emotion="none" index="15">"Scores."</p><p data-character="narrator" data-gender="m" emotion="none" index="15">"</p><p data-character="narrator" data-gender="m" emotion="none" index="16">But one of the students was fool enough to ask where the advantage lay.</p><p data-character="the director" data-gender="m" emotion="none" index="17">"My good boy!"</p><p data-character="narrator" data-gender="m" emotion="none" index="17">" The Director wheeled sharply round on him.</p><p data-character="the director" data-gender="m" emotion="none" index="17">"Can't you see?
+            Can't you see?"</p><p data-character="narrator" data-gender="m" emotion="none" index="17">" He raised a hand; his expression was solemn.</p><p data-character="the director" data-gender="m" emotion="none" index="17">"Bokanovsky's
+            Process is one of the major instruments of social stability!"</p><p data-character="narrator" data-gender="m" emotion="none" index="17">"</p><p data-character="narrator" data-gender="m" emotion="none" index="18">Major instruments of social stability.</p><p data-character="narrator" data-gender="m" emotion="none" index="19">Standard men and women; in uniform batches. The whole of a small factory
+            staffed with the products of a single bokanovskified egg.</p><p data-character="the director" data-gender="m" emotion="none" index="20">"Ninety–six identical twins working ninety–six identical machines!"</p><p data-character="narrator" data-gender="m" emotion="none" index="20">" The
+            voice was almost tremulous with enthusiasm.</p><p data-character="the director" data-gender="m" emotion="none" index="20">"You really know where you are.
+            For the first time in history."</p><p data-character="narrator" data-gender="m" emotion="none" index="20">" He quoted the planetary motto.</p><p data-character="the director" data-gender="m" emotion="none" index="20">"Community,
+            Identity, Stability."</p><p data-character="narrator" data-gender="m" emotion="none" index="20">" Grand words.</p><p data-character="the director" data-gender="m" emotion="none" index="20">"If we could bokanovskify indefinitely the
+            whole problem would be solved."</p><p data-character="narrator" data-gender="m" emotion="none" index="20">"</p><p data-character="narrator" data-gender="m" emotion="none" index="21">Solved by standard Gammas, unvarying Deltas, uniform Epsilons. Millions of
+            identical twins. The principle of mass production at last applied to biology.</p><p data-character="the director" data-gender="m" emotion="none" index="22">"But, alas,"</p><p data-character="narrator" data-gender="m" emotion="none" index="22">" the Director shook his head,</p><p data-character="the director" data-gender="m" emotion="none" index="22">"we can't bokanovskify
+            indefinitely."</p><p data-character="narrator" data-gender="m" emotion="none" index="22">"</p><p data-character="narrator" data-gender="m" emotion="none" index="23">Ninety–six seemed to be the limit; seventy–two a good average. From the
             same ovary and with gametes of the same male to manufacture as many batches of
             identical twins as possible–that was the best (sadly a second best) that they
-            could do. And even that was difficult.</p><p data-character="narrator" data-gender="m" emotion="none">"For in nature it takes thirty years for two hundred eggs to reach
+            could do. And even that was difficult.</p><p data-character="the director" data-gender="m" emotion="none" index="24">"For in nature it takes thirty years for two hundred eggs to reach
             maturity. But our business is to stabilize the population at this moment, here
             and now. Dribbling out twins over a quarter of a century–what would be the use
-            of that?"</p><p data-character="narrator" data-gender="m" emotion="none">Obviously, no use at all. But Podsnap's Technique had immensely
+            of that?"</p><p data-character="narrator" data-gender="m" emotion="none" index="24">"</p><p data-character="narrator" data-gender="m" emotion="none" index="25">Obviously, no use at all. But Podsnap's Technique had immensely
             accelerated the process of ripening. They could make sure of at least a
             hundred and fifty mature eggs within two years. Fertilize and bokanovskify–in
             other words, multiply by seventy–two–and you get an average of nearly eleven
             thousand brothers and sisters in a hundred and fifty batches of identical
-            twins, all within two years of the same age.</p><p data-character="narrator" data-gender="m" emotion="none">"And in exceptional cases we can make one ovary yield us over fifteen
-            thousand adult individuals."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Mr. Foster,""Can you
-            tell us the record for a single ovary, Mr. Foster?"</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Sixteen thousand and twelve in this Centre,""Sixteen thousand and twelve; in one
+            twins, all within two years of the same age.</p><p data-character="the director" data-gender="m" emotion="none" index="26">"And in exceptional cases we can make one ovary yield us over fifteen
+            thousand adult individuals."</p><p data-character="narrator" data-gender="m" emotion="none" index="26">"</p><p data-character="narrator" data-gender="m" emotion="none" index="27">Beckoning to a fair–haired, ruddy young man who happened to be passing at
+            the moment.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="27">"Mr. Foster,"</p><p data-character="narrator" data-gender="m" emotion="none" index="27">" he called. The ruddy young man approached.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="27">"Can you
+            tell us the record for a single ovary, Mr. Foster?"</p><p data-character="narrator" data-gender="m" emotion="none" index="27">"</p><p data-character="mr. foster" data-gender="m" emotion="none" index="28">"Sixteen thousand and twelve in this Centre,"</p><p data-character="narrator" data-gender="m" emotion="none" index="28">" Mr. Foster replied without
+            hesitation. He spoke very quickly, had a vivacious blue eye, and took an
+            evident pleasure in quoting figures.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="28">"Sixteen thousand and twelve; in one
             hundred and eighty–nine batches of identicals. But of course they've done much
-            better,""in some of the tropical Centres. Singapore has often
+            better,"</p><p data-character="narrator" data-gender="m" emotion="none" index="28">" he rattled on,</p><p data-character="mr. foster" data-gender="m" emotion="none" index="28">"in some of the tropical Centres. Singapore has often
             produced over sixteen thousand five hundred; and Mombasa has actually touched
             the seventeen thousand mark. But then they have unfair advantages. You should
             see the way a negro ovary responds to pituitary! It's quite astonishing, when
-            you're used to working with European material. Still,""still, we mean to beat them if we can. I'm working on a
+            you're used to working with European material. Still,"</p><p data-character="narrator" data-gender="m" emotion="none" index="28">" he added, with a laugh
+            (but the light of combat was in his eyes and the lift of his chin was
+            challenging),</p><p data-character="mr. foster" data-gender="m" emotion="none" index="28">"still, we mean to beat them if we can. I'm working on a
             wonderful Delta–Minus ovary at this moment. Only just eighteen months old.
             Over twelve thousand seven hundred children already, either decanted or in
-            embryo. And still going strong. We'll beat them yet."</p><p data-character="the director" data-gender="m" emotion="none">the director: "That's the spirit I like!""Come along with us, and give these boys the benefit of your
-            expert knowledge."</p><p data-character="narrator" data-gender="m" emotion="none">Mr. Foster smiled modestly. </p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "With pleasure."</p><p data-character="narrator" data-gender="m" emotion="none"> They went.</p><p data-character="narrator" data-gender="m" emotion="none">In the Bottling Room all was harmonious bustle and ordered activity. Flaps
+            embryo. And still going strong. We'll beat them yet."</p><p data-character="narrator" data-gender="m" emotion="none" index="28">"</p><p data-character="the director" data-gender="m" emotion="none" index="29">"That's the spirit I like!"</p><p data-character="narrator" data-gender="m" emotion="none" index="29">" cried the Director, and clapped Mr. Foster on
+            the shoulder.</p><p data-character="the director" data-gender="m" emotion="none" index="29">"Come along with us, and give these boys the benefit of your
+            expert knowledge."</p><p data-character="narrator" data-gender="m" emotion="none" index="29">"</p><p data-character="narrator" data-gender="m" emotion="none" index="30">Mr. Foster smiled modestly.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="30">"With pleasure."</p><p data-character="narrator" data-gender="m" emotion="none" index="30">" They went.</p><p data-character="narrator" data-gender="m" emotion="none" index="31">In the Bottling Room all was harmonious bustle and ordered activity. Flaps
             of fresh sow's peritoneum ready cut to the proper size came shooting up in
             little lifts from the Organ Store in the sub–basement. Whizz and then, click!
             the lift–hatches hew open; the bottle–liner had only to reach out a hand, take
             the flap, insert, smooth–down, and before the lined bottle had had time to
             travel out of reach along the endless band, whizz, click! another flap of
             peritoneum had shot up from the depths, ready to be slipped into yet another
-            bottle, the next of that slow interminable procession on the band.</p><p data-character="narrator" data-gender="m" emotion="none">Next to the Liners stood the Matriculators. The procession advanced; one
+            bottle, the next of that slow interminable procession on the band.</p><p data-character="narrator" data-gender="m" emotion="none" index="32">Next to the Liners stood the Matriculators. The procession advanced; one
             by one the eggs were transferred from their test–tubes to the larger
             containers; deftly the peritoneal lining was slit, the morula dropped into
             place, the saline solution poured in…and already the bottle had passed, and
             it was the turn of the labellers. Heredity, date of fertilization, membership
             of Bokanovsky Group–details were transferred from test–tube to bottle. No
             longer anonymous, but named, identified, the procession marched slowly on; on
-            through an opening in the wall, slowly on into the Social Predestination Room.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Eighty–eight cubic metres of card–index,"</p><p data-character="narrator" data-gender="m" emotion="none"> said Mr. Foster with relish, as
-            they entered.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Containing all the relevant information,"</p><p data-character="narrator" data-gender="m" emotion="none"> added the Director.</p><p data-character="narrator" data-gender="m" emotion="none">"Brought up to date every morning."</p><p data-character="narrator" data-gender="m" emotion="none">"And co–ordinated every afternoon."</p><p data-character="narrator" data-gender="m" emotion="none">"On the basis of which they make their calculations."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "So many individuals, of such and such quality,"</p><p data-character="narrator" data-gender="m" emotion="none"> said Mr. Foster.</p><p data-character="narrator" data-gender="m" emotion="none">"Distributed in such and such quantities."</p><p data-character="narrator" data-gender="m" emotion="none">"The optimum Decanting Rate at any given moment."</p><p data-character="narrator" data-gender="m" emotion="none">"Unforeseen wastages promptly made good."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Promptly,""If you knew the amount of overtime I had
-            to put in after the last Japanese earthquake!"</p><p data-character="narrator" data-gender="m" emotion="none">"The Predestinators send in their figures to the Fertilizers."</p><p data-character="narrator" data-gender="m" emotion="none">"Who give them the embryos they ask for."</p><p data-character="narrator" data-gender="m" emotion="none">"And the bottles come in here to be predestined in detail."</p><p data-character="narrator" data-gender="m" emotion="none">"After which they are sent down to the Embryo Store."</p><p data-character="narrator" data-gender="m" emotion="none">"Where we now proceed ourselves."</p><p data-character="narrator" data-gender="m" emotion="none">And opening a door Mr. Foster led the way down a staircase into the
-            basement.</p><p data-character="narrator" data-gender="m" emotion="none">The temperature was still tropical. They descended into a thickening
+            through an opening in the wall, slowly on into the Social Predestination Room.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="33">"Eighty–eight cubic metres of card–index,"</p><p data-character="narrator" data-gender="m" emotion="none" index="33">" said Mr. Foster with relish, as
+            they entered.</p><p data-character="the director" data-gender="m" emotion="none" index="34">"Containing all the relevant information,"</p><p data-character="narrator" data-gender="m" emotion="none" index="34">" added the Director.</p><p data-character="the director" data-gender="m" emotion="none" index="35">"Brought up to date every morning."</p><p data-character="narrator" data-gender="m" emotion="none" index="35">"</p><p data-character="the director" data-gender="m" emotion="none" index="36">"And co–ordinated every afternoon."</p><p data-character="narrator" data-gender="m" emotion="none" index="36">"</p><p data-character="the director" data-gender="m" emotion="none" index="37">"On the basis of which they make their calculations."</p><p data-character="narrator" data-gender="m" emotion="none" index="37">"</p><p data-character="mr. foster" data-gender="m" emotion="none" index="38">"So many individuals, of such and such quality,"</p><p data-character="narrator" data-gender="m" emotion="none" index="38">" said Mr. Foster.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="39">"Distributed in such and such quantities."</p><p data-character="narrator" data-gender="m" emotion="none" index="39">"</p><p data-character="mr. foster" data-gender="m" emotion="none" index="40">"The optimum Decanting Rate at any given moment."</p><p data-character="narrator" data-gender="m" emotion="none" index="40">"</p><p data-character="mr. foster" data-gender="m" emotion="none" index="41">"Unforeseen wastages promptly made good."</p><p data-character="narrator" data-gender="m" emotion="none" index="41">"</p><p data-character="mr. foster" data-gender="m" emotion="none" index="42">"Promptly,"</p><p data-character="narrator" data-gender="m" emotion="none" index="42">" repeated Mr. Foster.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="42">"If you knew the amount of overtime I had
+            to put in after the last Japanese earthquake!"</p><p data-character="narrator" data-gender="m" emotion="none" index="42">" He laughed goodhumouredly and
+            shook his head.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="43">"The Predestinators send in their figures to the Fertilizers."</p><p data-character="narrator" data-gender="m" emotion="none" index="43">"</p><p data-character="mr. foster" data-gender="m" emotion="none" index="44">"Who give them the embryos they ask for."</p><p data-character="narrator" data-gender="m" emotion="none" index="44">"</p><p data-character="mr. foster" data-gender="m" emotion="none" index="45">"And the bottles come in here to be predestined in detail."</p><p data-character="narrator" data-gender="m" emotion="none" index="45">"</p><p data-character="mr. foster" data-gender="m" emotion="none" index="46">"After which they are sent down to the Embryo Store."</p><p data-character="narrator" data-gender="m" emotion="none" index="46">"</p><p data-character="mr. foster" data-gender="m" emotion="none" index="47">"Where we now proceed ourselves."</p><p data-character="narrator" data-gender="m" emotion="none" index="47">"</p><p data-character="narrator" data-gender="m" emotion="none" index="48">And opening a door Mr. Foster led the way down a staircase into the
+            basement.</p><p data-character="narrator" data-gender="m" emotion="none" index="49">The temperature was still tropical. They descended into a thickening
             twilight. Two doors and a passage with a double turn insured the cellar
-            against any possible infiltration of the day.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Embryos are like photograph film,""They can only stand red light."</p><p data-character="narrator" data-gender="m" emotion="none">And in effect the sultry darkness into which the students now followed him
+            against any possible infiltration of the day.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="50">"Embryos are like photograph film,"</p><p data-character="narrator" data-gender="m" emotion="none" index="50">" said Mr. Foster waggishly, as he
+            pushed open the second door.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="50">"They can only stand red light."</p><p data-character="narrator" data-gender="m" emotion="none" index="50">"</p><p data-character="narrator" data-gender="m" emotion="none" index="51">And in effect the sultry darkness into which the students now followed him
             was visible and crimson, like the darkness of closed eyes on a summer's
             afternoon. The bulging flanks of row on receding row and tier above tier of
             bottles glinted with innumerable rubies, and among the rubies moved the dim
             red spectres of men and women with purple eyes and all the symptoms of lupus.
-            The hum and rattle of machinery faintly stirred the air.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Give them a few figures, Mr. Foster,"</p><p data-character="narrator" data-gender="m" emotion="none"> said the Director, who was tired of
-            talking.</p><p data-character="narrator" data-gender="m" emotion="none">Mr. Foster was only too happy to give them a few figures.</p><p data-character="narrator" data-gender="m" emotion="none">Two hundred and twenty metres long, two hundred wide, ten high. He pointed
+            The hum and rattle of machinery faintly stirred the air.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="52">"Give them a few figures, Mr. Foster,"</p><p data-character="narrator" data-gender="m" emotion="none" index="52">" said the Director, who was tired of
+            talking.</p><p data-character="narrator" data-gender="m" emotion="none" index="53">Mr. Foster was only too happy to give them a few figures.</p><p data-character="narrator" data-gender="m" emotion="none" index="54">Two hundred and twenty metres long, two hundred wide, ten high. He pointed
             upwards. Like chickens drinking, the students lifted their eyes towards the
-            distant ceiling.</p><p data-character="narrator" data-gender="m" emotion="none">Three tiers of racks: ground floor level, first gallery, second gallery.</p><p data-character="narrator" data-gender="m" emotion="none">The spidery steel–work of gallery above gallery faded away in all
+            distant ceiling.</p><p data-character="narrator" data-gender="m" emotion="none" index="55">Three tiers of racks: ground floor level, first gallery, second gallery.</p><p data-character="narrator" data-gender="m" emotion="none" index="56">The spidery steel–work of gallery above gallery faded away in all
             directions into the dark. Near them three red ghosts were busily unloading
-            demijohns from a moving staircase.</p><p data-character="narrator" data-gender="m" emotion="none">The escalator from the Social Predestination Room.</p><p data-character="narrator" data-gender="m" emotion="none">Each bottle could be placed on one of fifteen racks, each rack, though you
+            demijohns from a moving staircase.</p><p data-character="narrator" data-gender="m" emotion="none" index="57">The escalator from the Social Predestination Room.</p><p data-character="narrator" data-gender="m" emotion="none" index="58">Each bottle could be placed on one of fifteen racks, each rack, though you
             couldn't see it, was a conveyor traveling at the rate of thirty–three and a
             third centimetres an hour. Two hundred and sixty–seven days at eight metres a
             day. Two thousand one hundred and thirty–six metres in all. One circuit of the
             cellar at ground level, one on the first gallery, half on the second, and on
             the two hundred and sixty–seventh morning, daylight in the Decanting Room.
-            Independent existence–so called.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "But in the interval,""we've managed to do a lot to
-            them. Oh, a very great deal."</p><p data-character="the director" data-gender="m" emotion="none">the director: "That's the spirit I like,""Let's walk
-            around. You tell them everything, Mr. Foster."</p><p data-character="narrator" data-gender="m" emotion="none">Mr. Foster duly told them.</p><p data-character="narrator" data-gender="m" emotion="none">Told them of the growing embryo on its bed of peritoneum. Made them taste
+            Independent existence–so called.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="59">"But in the interval,"</p><p data-character="narrator" data-gender="m" emotion="none" index="59">" Mr. Foster concluded,</p><p data-character="mr. foster" data-gender="m" emotion="none" index="59">"we've managed to do a lot to
+            them. Oh, a very great deal."</p><p data-character="narrator" data-gender="m" emotion="none" index="59">" His laugh was knowing and triumphant.</p><p data-character="the director" data-gender="m" emotion="none" index="60">"That's the spirit I like,"</p><p data-character="narrator" data-gender="m" emotion="none" index="60">" said the Director once more.</p><p data-character="the director" data-gender="m" emotion="none" index="60">"Let's walk
+            around. You tell them everything, Mr. Foster."</p><p data-character="narrator" data-gender="m" emotion="none" index="60">"</p><p data-character="narrator" data-gender="m" emotion="none" index="61">Mr. Foster duly told them.</p><p data-character="narrator" data-gender="m" emotion="none" index="62">Told them of the growing embryo on its bed of peritoneum. Made them taste
             the rich blood surrogate on which it fed. Explained why it had to be
             stimulated with placentin and thyroxin. Told them of the corpus
                     luteum
@@ -161,559 +169,93 @@
             centrifugal pump that kept the liquid moving over the placenta and drove it
             through the synthetic lung and waste product filter. Referred to the embryo's
             troublesome tendency to anæmia, to the massive doses of hog's stomach extract
-            and foetal foal's liver with which, in consequence, it had to be supplied.</p><p data-character="narrator" data-gender="m" emotion="none">Showed them the simple mechanism by means of which, during the last two
+            and foetal foal's liver with which, in consequence, it had to be supplied.</p><p data-character="narrator" data-gender="m" emotion="none" index="63">Showed them the simple mechanism by means of which, during the last two
             metres out of every eight, all the embryos were simultaneously shaken into
-            familiarity with movement. Hinted at the gravity of the so–called "trauma of
-            decanting," and enumerated the precautions taken to minimize, by a suitable
+            familiarity with movement. Hinted at the gravity of the so–called</p><p data-character="the director" data-gender="m" emotion="none" index="63">"trauma of
+            decanting,"</p><p data-character="narrator" data-gender="m" emotion="none" index="63">" and enumerated the precautions taken to minimize, by a suitable
             training of the bottled embryo, that dangerous shock. Told them of the test
             for sex carried out in the neighborhood of Metre 200. Explained the system of
             labelling–a T for the males, a circle for the females and for those who were
-            destined to become freemartins a question mark, black on a white ground.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "For of course,""in the vast majority of cases,
+            destined to become freemartins a question mark, black on a white ground.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="64">"For of course,"</p><p data-character="narrator" data-gender="m" emotion="none" index="64">" said Mr. Foster,</p><p data-character="mr. foster" data-gender="m" emotion="none" index="64">"in the vast majority of cases,
             fertility is merely a nuisance. One fertile ovary in twelve hundred–that would
             really be quite sufficient for our purposes. But we want to have a good
             choice. And of course one must always have an enormous margin of safety. So we
             allow as many as thirty per cent of the female embryos to develop normally.
             The others get a dose of male sex–hormone every twenty–four metres for the
             rest of the course. Result: they're decanted as freemartins–structurally quite
-            normal (except,""that they do have the slightest tendency to
-            grow beards), but sterile. Guaranteed sterile. Which brings us at last,""out of the realm of mere slavish imitation of nature
-            into the much more interesting world of human invention."</p><p data-character="narrator" data-gender="m" emotion="none">He rubbed his hands. For of course, they didn't content themselves with
-            merely hatching out embryos: any cow could do that.</p><p data-character="narrator" data-gender="m" emotion="none">"We also predestine and condition. We decant our babies as socialized
-            human beings, as Alphas or Epsilons, as future sewage workers or future…" He
-            was going to say "future World controllers," but correcting himself, said
-            "future Directors of Hatcheries," instead.</p><p data-character="narrator" data-gender="m" emotion="none">The D.H.C. acknowledged the compliment with a smile.</p><p data-character="narrator" data-gender="m" emotion="none">They were passing Metre 320 on Rack 11. A young Beta–Minus mechanic was
+            normal (except,"</p><p data-character="narrator" data-gender="m" emotion="none" index="64">" he had to admit,</p><p data-character="mr. foster" data-gender="m" emotion="none" index="64">"that they do have the slightest tendency to
+            grow beards), but sterile. Guaranteed sterile. Which brings us at last,"</p><p data-character="narrator" data-gender="m" emotion="none" index="64">"
+            continued Mr. Foster,</p><p data-character="mr. foster" data-gender="m" emotion="none" index="64">"out of the realm of mere slavish imitation of nature
+            into the much more interesting world of human invention."</p><p data-character="narrator" data-gender="m" emotion="none" index="64">"</p><p data-character="narrator" data-gender="m" emotion="none" index="65">He rubbed his hands. For of course, they didn't content themselves with
+            merely hatching out embryos: any cow could do that.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="66">"We also predestine and condition. We decant our babies as socialized
+            human beings, as Alphas or Epsilons, as future sewage workers or future…"</p><p data-character="narrator" data-gender="m" emotion="none" index="66">" He
+            was going to say</p><p data-character="mr. foster" data-gender="m" emotion="none" index="66">"future World controllers,"</p><p data-character="narrator" data-gender="m" emotion="none" index="66">" but correcting himself, said</p><p data-character="mr. foster" data-gender="m" emotion="none" index="66">"future Directors of Hatcheries,"</p><p data-character="narrator" data-gender="m" emotion="none" index="66">" instead.</p><p data-character="narrator" data-gender="m" emotion="none" index="67">The D.H.C. acknowledged the compliment with a smile.</p><p data-character="narrator" data-gender="m" emotion="none" index="68">They were passing Metre 320 on Rack 11. A young Beta–Minus mechanic was
             busy with screw–driver and spanner on the blood–surrogate pump of a passing
             bottle. The hum of the electric motor deepened by fractions of a tone as he
             turned the nuts. Down, down…A final twist, a glance at the revolution
             counter, and he was done. He moved two paces down the line and began the same
-            process on the next pump.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Reducing the number of revolutions per minute,""The surrogate goes round slower; therefore passes through the lung at longer
+            process on the next pump.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="69">"Reducing the number of revolutions per minute,"</p><p data-character="narrator" data-gender="m" emotion="none" index="69">" Mr. Foster explained.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="69">"The surrogate goes round slower; therefore passes through the lung at longer
             intervals; therefore gives the embryo less oxygen. Nothing like
-            oxygen–shortage for keeping an embryo below par."</p><p data-character="narrator" data-gender="m" emotion="none">"But why do you want to keep the embryo below par?" asked an ingenuous
-            student.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Ass!""Hasn't it occurred to
+            oxygen–shortage for keeping an embryo below par."</p><p data-character="narrator" data-gender="m" emotion="none" index="69">" Again he rubbed his hands.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="70">"But why do you want to keep the embryo below par?"</p><p data-character="narrator" data-gender="m" emotion="none" index="70">" asked an ingenuous
+            student.</p><p data-character="the director" data-gender="m" emotion="none" index="71">"Ass!"</p><p data-character="narrator" data-gender="m" emotion="none" index="71">" said the Director, breaking a long silence.</p><p data-character="the director" data-gender="m" emotion="none" index="71">"Hasn't it occurred to
             you that an Epsilon embryo must have an Epsilon environment as well as an
-            Epsilon heredity?"</p><p data-character="narrator" data-gender="m" emotion="none">It evidently hadn't occurred to him. He was covered with confusion.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "The lower the caste,""the shorter the oxygen."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Who are no use at all,"</p><p data-character="narrator" data-gender="m" emotion="none"> concluded Mr. Foster.</p><p data-character="narrator" data-gender="m" emotion="none">Whereas (his voice became confidential and eager), if they could discover
+            Epsilon heredity?"</p><p data-character="narrator" data-gender="m" emotion="none" index="71">"</p><p data-character="narrator" data-gender="m" emotion="none" index="72">It evidently hadn't occurred to him. He was covered with confusion.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="73">"The lower the caste,"</p><p data-character="narrator" data-gender="m" emotion="none" index="73">" said Mr. Foster,</p><p data-character="mr. foster" data-gender="m" emotion="none" index="73">"the shorter the oxygen."</p><p data-character="narrator" data-gender="m" emotion="none" index="73">" The
+            first organ affected was the brain. After that the skeleton. At seventy per
+            cent of normal oxygen you got dwarfs. At less than seventy eyeless monsters.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="74">"Who are no use at all,"</p><p data-character="narrator" data-gender="m" emotion="none" index="74">" concluded Mr. Foster.</p><p data-character="narrator" data-gender="m" emotion="none" index="75">Whereas (his voice became confidential and eager), if they could discover
             a technique for shortening the period of maturation what a triumph, what a
-            benefaction to Society!</p><p data-character="narrator" data-gender="m" emotion="none">"Consider the horse."</p><p data-character="narrator" data-gender="m" emotion="none">They considered it.</p><p data-character="narrator" data-gender="m" emotion="none">Mature at six; the elephant at ten. While at thirteen a man is not yet
+            benefaction to Society!</p><p data-character="mr. foster" data-gender="m" emotion="none" index="76">"Consider the horse."</p><p data-character="narrator" data-gender="m" emotion="none" index="76">"</p><p data-character="narrator" data-gender="m" emotion="none" index="77">They considered it.</p><p data-character="narrator" data-gender="m" emotion="none" index="78">Mature at six; the elephant at ten. While at thirteen a man is not yet
             sexually mature; and is only full–grown at twenty. Hence, of course, that
-            fruit of delayed development, the human intelligence.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "But in Epsilons,""we don't need human
-            intelligence."</p><p data-character="narrator" data-gender="m" emotion="none">Didn't need and didn't get it. But though the Epsilon mind was mature at
+            fruit of delayed development, the human intelligence.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="79">"But in Epsilons,"</p><p data-character="narrator" data-gender="m" emotion="none" index="79">" said Mr. Foster very justly,</p><p data-character="mr. foster" data-gender="m" emotion="none" index="79">"we don't need human
+            intelligence."</p><p data-character="narrator" data-gender="m" emotion="none" index="79">"</p><p data-character="narrator" data-gender="m" emotion="none" index="80">Didn't need and didn't get it. But though the Epsilon mind was mature at
             ten, the Epsilon body was not fit to work till eighteen. Long years of
             superfluous and wasted immaturity. If the physical development could be
             speeded up till it was as quick, say, as a cow's, what an enormous saving to
-            the Community!</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Enormous!"</p><p data-character="narrator" data-gender="m" emotion="none"> murmured the students. Mr. Foster's enthusiasm was infectious.</p><p data-character="narrator" data-gender="m" emotion="none">He became rather technical; spoke of the abnormal endocrine co–ordination
+            the Community!</p><p data-character="mr. foster" data-gender="m" emotion="none" index="81">"Enormous!"</p><p data-character="narrator" data-gender="m" emotion="none" index="81">" murmured the students. Mr. Foster's enthusiasm was infectious.</p><p data-character="narrator" data-gender="m" emotion="none" index="82">He became rather technical; spoke of the abnormal endocrine co–ordination
             which made men grow so slowly; postulated a germinal mutation to account for
             it. Could the effects of this germinal mutation be undone? Could the
             individual Epsilon embryo be made a revert, by a suitable technique, to the
-            normality of dogs and cows? That was the problem. And it was all but solved.</p><p data-character="narrator" data-gender="m" emotion="none">Pilkington, at Mombasa, had produced individuals who were sexually mature
+            normality of dogs and cows? That was the problem. And it was all but solved.</p><p data-character="narrator" data-gender="m" emotion="none" index="83">Pilkington, at Mombasa, had produced individuals who were sexually mature
             at four and full–grown at six and a half. A scientific triumph. But socially
             useless. Six–year–old men and women were too stupid to do even Epsilon work.
             And the process was an all–or–nothing one; either you failed to modify at all,
             or else you modified the whole way. They were still trying to find the ideal
             compromise between adults of twenty and adults of six. So far without success.
-            Mr. Foster sighed and shook his head.</p><p data-character="narrator" data-gender="m" emotion="none">Their wanderings through the crimson twilight had brought them to the
+            Mr. Foster sighed and shook his head.</p><p data-character="narrator" data-gender="m" emotion="none" index="84">Their wanderings through the crimson twilight had brought them to the
             neighborhood of Metre 170 on Rack 9. From this point onwards Rack 9 was
             enclosed and the bottle performed the remainder of their journey in a kind of
-            tunnel, interrupted here and there by openings two or three metres wide.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Heat conditioning,"</p><p data-character="narrator" data-gender="m" emotion="none"> said Mr. Foster.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "We
-            condition them to thrive on heat,""Our colleagues
-            upstairs will teach them to love it."</p><p data-character="the director" data-gender="m" emotion="none">the director: "And that,""that is the secret of
+            tunnel, interrupted here and there by openings two or three metres wide.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="85">"Heat conditioning,"</p><p data-character="narrator" data-gender="m" emotion="none" index="85">" said Mr. Foster.</p><p data-character="narrator" data-gender="m" emotion="none" index="86">Hot tunnels alternated with cool tunnels. Coolness was wedded to
+            discomfort in the form of hard X–rays. By the time they were decanted the
+            embryos had a horror of cold. They were predestined to emigrate to the
+            tropics, to be miner and acetate silk spinners and steel workers. Later on
+            their minds would be made to endorse the judgment of their bodies.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="86">"We
+            condition them to thrive on heat,"</p><p data-character="narrator" data-gender="m" emotion="none" index="86">" concluded Mr. Foster.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="86">"Our colleagues
+            upstairs will teach them to love it."</p><p data-character="narrator" data-gender="m" emotion="none" index="86">"</p><p data-character="the director" data-gender="m" emotion="none" index="87">"And that,"</p><p data-character="narrator" data-gender="m" emotion="none" index="87">" put in the Director sententiously,</p><p data-character="the director" data-gender="m" emotion="none" index="87">"that is the secret of
             happiness and virtue–liking what you've got to do. All conditioning aims at
-            that: making people like their unescapable social destiny."</p><p data-character="narrator" data-gender="m" emotion="none">In a gap between two tunnels, a nurse was delicately probing with a long
+            that: making people like their unescapable social destiny."</p><p data-character="narrator" data-gender="m" emotion="none" index="87">"</p><p data-character="narrator" data-gender="m" emotion="none" index="88">In a gap between two tunnels, a nurse was delicately probing with a long
             fine syringe into the gelatinous contents of a passing bottle. The students
-            and their guides stood watching her for a few moments in silence.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Well, Lenina,"</p><p data-character="narrator" data-gender="m" emotion="none"> said Mr. Foster, when at last she withdrew the syringe and
-            straightened herself up.</p><p data-character="narrator" data-gender="m" emotion="none">The girl turned with a start. One could see that, for all the lupus and
-            the purple eyes, she was uncommonly pretty.</p><p data-character="narrator" data-gender="m" emotion="none">"Henry!" Her smile flashed redly at him–a row of coral teeth.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Charming, charming,"</p><p data-character="narrator" data-gender="m" emotion="none"> murmured the Director and, giving her two or three
-            little pats, received in exchange a rather deferential smile for himself.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "What are you giving them?"</p><p data-character="narrator" data-gender="m" emotion="none"> asked Mr. Foster, making his tone very
-            professional.</p><p data-character="narrator" data-gender="m" emotion="none">"Oh, the usual typhoid and sleeping sickness."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Tropical workers start being inoculated at Metre 150,""The embryos still have gills. We immunize the fish
-            against the future man's diseases.""Ten to five
-            on the roof this afternoon,""as usual."</p><p data-character="the director" data-gender="m" emotion="none">the director: "Charming,"</p><p data-character="narrator" data-gender="m" emotion="none"> said the Director once more, and, with a final pat, moved away
-            after the others.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "To improve their sense of balance,""Doing repairs on the outside of a rocket in mid–air is a ticklish
+            and their guides stood watching her for a few moments in silence.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="89">"Well, Lenina,"</p><p data-character="narrator" data-gender="m" emotion="none" index="89">" said Mr. Foster, when at last she withdrew the syringe and
+            straightened herself up.</p><p data-character="narrator" data-gender="m" emotion="none" index="90">The girl turned with a start. One could see that, for all the lupus and
+            the purple eyes, she was uncommonly pretty.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="91">"Henry!"</p><p data-character="narrator" data-gender="m" emotion="none" index="91">" Her smile flashed redly at him–a row of coral teeth.</p><p data-character="the director" data-gender="m" emotion="none" index="92">"Charming, charming,"</p><p data-character="narrator" data-gender="m" emotion="none" index="92">" murmured the Director and, giving her two or three
+            little pats, received in exchange a rather deferential smile for himself.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="93">"What are you giving them?"</p><p data-character="narrator" data-gender="m" emotion="none" index="93">" asked Mr. Foster, making his tone very
+            professional.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="94">"Oh, the usual typhoid and sleeping sickness."</p><p data-character="narrator" data-gender="m" emotion="none" index="94">"</p><p data-character="mr. foster" data-gender="m" emotion="none" index="95">"Tropical workers start being inoculated at Metre 150,"</p><p data-character="narrator" data-gender="m" emotion="none" index="95">" Mr. Foster
+            explained to the students.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="95">"The embryos still have gills. We immunize the fish
+            against the future man's diseases."</p><p data-character="narrator" data-gender="m" emotion="none" index="95">" Then, turning back to Lenina,</p><p data-character="mr. foster" data-gender="m" emotion="none" index="95">"Ten to five
+            on the roof this afternoon,"</p><p data-character="narrator" data-gender="m" emotion="none" index="95">" he said,</p><p data-character="mr. foster" data-gender="m" emotion="none" index="95">"as usual."</p><p data-character="narrator" data-gender="m" emotion="none" index="95">"</p><p data-character="the director" data-gender="m" emotion="none" index="96">"Charming,"</p><p data-character="narrator" data-gender="m" emotion="none" index="96">" said the Director once more, and, with a final pat, moved away
+            after the others.</p><p data-character="narrator" data-gender="m" emotion="none" index="97">On Rack 10 rows of next generation's chemical workers were being trained
+            in the toleration of lead, caustic soda, tar, chlorine. The first of a batch
+            of two hundred and fifty embryonic rocket–plane engineers was just passing the
+            eleven hundred metre mark on Rack 3. A special mechanism kept their containers
+            in constant rotation.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="97">"To improve their sense of balance,"</p><p data-character="narrator" data-gender="m" emotion="none" index="97">" Mr. Foster
+            explained.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="97">"Doing repairs on the outside of a rocket in mid–air is a ticklish
             job. We slacken off the circulation when they're right way up, so that they're
             half starved, and double the flow of surrogate when they're upside down. They
             learn to associate topsy–turvydom with well–being; in fact, they're only truly
-            happy when they're standing on their heads.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "And now,""I'd like to show you some very interesting
+            happy when they're standing on their heads.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="98">"And now,"</p><p data-character="narrator" data-gender="m" emotion="none" index="98">" Mr. Foster went on,</p><p data-character="mr. foster" data-gender="m" emotion="none" index="98">"I'd like to show you some very interesting
             conditioning for Alpha Plus Intellectuals. We have a big batch of them on Rack
-            5. First Gallery level,"</p><p data-character="narrator" data-gender="m" emotion="none">"They're round about Metre 900," he explained. "You can't really do any
+            5. First Gallery level,"</p><p data-character="narrator" data-gender="m" emotion="none" index="98">" he called to two boys who had started to go down to
+            the ground floor.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="99">"They're round about Metre 900,"</p><p data-character="narrator" data-gender="m" emotion="none" index="99">" he explained.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="99">"You can't really do any
             useful intellectual conditioning till the foetuses have lost their tails.
-            Follow me."</p><p data-character="the director" data-gender="m" emotion="none">the director: "Ten to three,""No
+            Follow me."</p><p data-character="narrator" data-gender="m" emotion="none" index="99">"</p><p data-character="narrator" data-gender="m" emotion="none" index="100">But the Director had looked at his watch.</p><p data-character="the director" data-gender="m" emotion="none" index="100">"Ten to three,"</p><p data-character="narrator" data-gender="m" emotion="none" index="100">" he said.</p><p data-character="the director" data-gender="m" emotion="none" index="100">"No
             time for the intellectual embryos, I'm afraid. We must go up to the Nurseries
-            before the children have finished their afternoon sleep."</p><p data-character="narrator" data-gender="m" emotion="none">Mr. Foster was disappointed. </p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "At least one glance at the Decanting Room,"</p><p data-character="narrator" data-gender="m" emotion="none">
-            he pleaded.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Very well then.""Just one glance."</p>
-<p data-character="narrator" data-gender="m" emotion="none">A squat grey building of only thirty–four stories. Over
-            the main entrance the words, CENTRAL LONDON HATCHERY AND CONDITIONING CENTRE,
-            and, in a shield, the World State's motto, COMMUNITY, IDENTITY, STABILITY.
-        </p><p data-character="narrator" data-gender="m" emotion="none">The enormous room on the ground floor faced towards the north. Cold for
-            all the summer beyond the panes, for all the tropical heat of the room itself,
-            a harsh thin light glared through the windows, hungrily seeking some draped
-            lay figure, some pallid shape of academic goose–flesh, but finding only the
-            glass and nickel and bleakly shining porcelain of a laboratory. Wintriness
-            responded to wintriness. The overalls of the workers were white, their hands
-            gloved with a pale corpse–coloured rubber. The light was frozen, dead, a
-            ghost. Only from the yellow barrels of the microscopes did it borrow a certain
-            rich and living substance, lying along the polished tubes like butter, streak
-            after luscious streak in long recession down the work tables.</p><p data-character="the director" data-gender="m" emotion="none">the director: "And this,""is the Fertilizing Room."</p><p data-character="narrator" data-gender="m" emotion="none">Bent over their instruments, three hundred Fertilizers were plunged, as
-            the Director of Hatcheries and Conditioning entered the room, in the scarcely
-            breathing silence, the absent–minded, soliloquizing hum or whistle, of
-            absorbed concentration. A troop of newly arrived students, very young, pink
-            and callow, followed nervously, rather abjectly, at the Director's heels. Each
-            of them carried a notebook, in which, whenever the great man spoke, he
-            desperately scribbled. Straight from the horse's mouth. It was a rare
-            privilege. The D. H. C. for Central London always made a point of personally
-            conducting his new students round the various departments.</p><p data-character="narrator" data-gender="m" emotion="none">"Just to give you a general idea," he would explain to them. For of course
-            some sort of general idea they must have, if they were to do their work
-            intelligently–though as little of one, if they were to be good and happy
-            members of society, as possible. For particulars, as every one knows, make for
-            virtue and happiness; generalities are intellectually necessary evils. Not
-            philosophers but fret–sawyers and stamp collectors compose the backbone of
-            society.</p><p data-character="narrator" data-gender="m" emotion="none">"To–morrow," he would add, smiling at them with a slightly menacing
-            geniality, "you'll be settling down to serious work. You won't have time for
-            generalities. Meanwhile…"</p><p data-character="narrator" data-gender="m" emotion="none">Meanwhile, it was a privilege. Straight from the horse's mouth into the
-            notebook. The boys scribbled like mad.</p><p data-character="narrator" data-gender="m" emotion="none">Tall and rather thin but upright, the Director advanced into the room. He
-            had a long chin and big rather prominent teeth, just covered, when he was not
-            talking, by his full, floridly curved lips. Old, young? Thirty? Fifty?
-            Fifty–five? It was hard to say. And anyhow the question didn't arise; in this
-            year of stability, A. F. 632, it didn't occur to you to ask it.</p><p data-character="narrator" data-gender="m" emotion="none">"I shall begin at the beginning," said the D.H.C. and the more zealous
-            students recorded his intention in their notebooks: Begin at the
-                    beginning. "These," he waved his hand, "are the incubators." And opening
-            an insulated door he showed them racks upon racks of numbered test–tubes. "The
-            week's supply of ova. Kept," he explained, "at blood heat; whereas the male
-            gametes," and here he opened another door, "they have to be kept at
-            thirty–five instead of thirty–seven. Full blood heat sterilizes." Rams wrapped
-            in theremogene beget no lambs.</p><p data-character="narrator" data-gender="m" emotion="none">Still leaning against the incubators he gave them, while the pencils
-            scurried illegibly across the pages, a brief description of the modern
-            fertilizing process; spoke first, of course, of its surgical introduction–"the
-            operation undergone voluntarily for the good of Society, not to mention the
-            fact that it carries a bonus amounting to six months' salary"; continued with
-            some account of the technique for preserving the excised ovary alive and
-            actively developing; passed on to a consideration of optimum temperature,
-            salinity, viscosity; referred to the liquor in which the detached and ripened
-            eggs were kept; and, leading his charges to the work tables, actually showed
-            them how this liquor was drawn off from the test–tubes; how it was let out
-            drop by drop onto the specially warmed slides of the microscopes; how the eggs
-            which it contained were inspected for abnormalities, counted and transferred
-            to a porous receptacle; how (and he now took them to watch the operation) this
-            receptacle was immersed in a warm bouillon containing free–swimming
-            spermatozoa–at a minimum concentration of one hundred thousand per cubic
-            centimetre, he insisted; and how, after ten minutes, the container was lifted
-            out of the liquor and its contents re–examined; how, if any of the eggs
-            remained unfertilized, it was again immersed, and, if necessary, yet again;
-            how the fertilized ova went back to the incubators; where the Alphas and Betas
-            remained until definitely bottled; while the Gammas, Deltas and Epsilons were
-            brought out again, after only thirty–six hours, to undergo Bokanovsky's
-            Process.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Bokanovsky's Process,"</p><p data-character="narrator" data-gender="m" emotion="none"> repeated the Director, and the students underlined
-            the words in their little notebooks.</p><p data-character="narrator" data-gender="m" emotion="none">One egg, one embryo, one adult–normality. But a bokanovskified egg will
-            bud, will proliferate, will divide. From eight to ninety–six buds, and every
-            bud will grow into a perfectly formed embryo, and every embryo into a
-            full–sized adult. Making ninety–six human beings grow where only one grew
-            before. Progress.</p><p data-character="narrator" data-gender="m" emotion="none">"Essentially," the D.H.C. concluded, "bokanovskification consists of a
-            series of arrests of development. We check the normal growth and,
-            paradoxically enough, the egg responds by budding."</p><p data-character="narrator" data-gender="m" emotion="none">Responds by budding. The pencils were busy.</p><p data-character="narrator" data-gender="m" emotion="none">He pointed. On a very slowly moving band a rack–full of test–tubes was
-            entering a large metal box, another, rack–full was emerging. Machinery faintly
-            purred. It took eight minutes for the tubes to go through, he told them. Eight
-            minutes of hard X–rays being about as much as an egg can stand. A few died; of
-            the rest, the least susceptible divided into two; most put out four buds; some
-            eight; all were returned to the incubators, where the buds began to develop;
-            then, after two days, were suddenly chilled, chilled and checked. Two, four,
-            eight, the buds in their turn budded; and having budded were dosed almost to
-            death with alcohol; consequently burgeoned again and having budded–bud out of
-            bud out of bud–were thereafter–further arrest being generally fatal–left to
-            develop in peace. By which time the original egg was in a fair way to becoming
-            anything from eight to ninety–six embryos– a prodigious improvement, you will
-            agree, on nature. Identical twins–but not in piddling twos and threes as in
-            the old viviparous days, when an egg would sometimes accidentally divide;
-            actually by dozens, by scores at a time.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Scores,""Scores."</p><p data-character="narrator" data-gender="m" emotion="none">But one of the students was fool enough to ask where the advantage lay.</p><p data-character="the director" data-gender="m" emotion="none">the director: "My good boy!""Can't you see?
-            Can't you see?""Bokanovsky's
-            Process is one of the major instruments of social stability!"</p><p data-character="narrator" data-gender="m" emotion="none">Major instruments of social stability.</p><p data-character="narrator" data-gender="m" emotion="none">Standard men and women; in uniform batches. The whole of a small factory
-            staffed with the products of a single bokanovskified egg.</p><p data-character="narrator" data-gender="m" emotion="none">"Ninety–six identical twins working ninety–six identical machines!" The
-            voice was almost tremulous with enthusiasm. "You really know where you are.
-            For the first time in history." He quoted the planetary motto. "Community,
-            Identity, Stability." Grand words. "If we could bokanovskify indefinitely the
-            whole problem would be solved."</p><p data-character="narrator" data-gender="m" emotion="none">Solved by standard Gammas, unvarying Deltas, uniform Epsilons. Millions of
-            identical twins. The principle of mass production at last applied to biology.</p><p data-character="the director" data-gender="m" emotion="none">the director: "But, alas,""we can't bokanovskify
-            indefinitely."</p><p data-character="narrator" data-gender="m" emotion="none">Ninety–six seemed to be the limit; seventy–two a good average. From the
-            same ovary and with gametes of the same male to manufacture as many batches of
-            identical twins as possible–that was the best (sadly a second best) that they
-            could do. And even that was difficult.</p><p data-character="narrator" data-gender="m" emotion="none">"For in nature it takes thirty years for two hundred eggs to reach
-            maturity. But our business is to stabilize the population at this moment, here
-            and now. Dribbling out twins over a quarter of a century–what would be the use
-            of that?"</p><p data-character="narrator" data-gender="m" emotion="none">Obviously, no use at all. But Podsnap's Technique had immensely
-            accelerated the process of ripening. They could make sure of at least a
-            hundred and fifty mature eggs within two years. Fertilize and bokanovskify–in
-            other words, multiply by seventy–two–and you get an average of nearly eleven
-            thousand brothers and sisters in a hundred and fifty batches of identical
-            twins, all within two years of the same age.</p><p data-character="narrator" data-gender="m" emotion="none">"And in exceptional cases we can make one ovary yield us over fifteen
-            thousand adult individuals."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Mr. Foster,""Can you
-            tell us the record for a single ovary, Mr. Foster?"</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Sixteen thousand and twelve in this Centre,""Sixteen thousand and twelve; in one
-            hundred and eighty–nine batches of identicals. But of course they've done much
-            better,""in some of the tropical Centres. Singapore has often
-            produced over sixteen thousand five hundred; and Mombasa has actually touched
-            the seventeen thousand mark. But then they have unfair advantages. You should
-            see the way a negro ovary responds to pituitary! It's quite astonishing, when
-            you're used to working with European material. Still,""still, we mean to beat them if we can. I'm working on a
-            wonderful Delta–Minus ovary at this moment. Only just eighteen months old.
-            Over twelve thousand seven hundred children already, either decanted or in
-            embryo. And still going strong. We'll beat them yet."</p><p data-character="the director" data-gender="m" emotion="none">the director: "That's the spirit I like!""Come along with us, and give these boys the benefit of your
-            expert knowledge."</p><p data-character="narrator" data-gender="m" emotion="none">Mr. Foster smiled modestly. </p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "With pleasure."</p><p data-character="narrator" data-gender="m" emotion="none"> They went.</p><p data-character="narrator" data-gender="m" emotion="none">In the Bottling Room all was harmonious bustle and ordered activity. Flaps
-            of fresh sow's peritoneum ready cut to the proper size came shooting up in
-            little lifts from the Organ Store in the sub–basement. Whizz and then, click!
-            the lift–hatches hew open; the bottle–liner had only to reach out a hand, take
-            the flap, insert, smooth–down, and before the lined bottle had had time to
-            travel out of reach along the endless band, whizz, click! another flap of
-            peritoneum had shot up from the depths, ready to be slipped into yet another
-            bottle, the next of that slow interminable procession on the band.</p><p data-character="narrator" data-gender="m" emotion="none">Next to the Liners stood the Matriculators. The procession advanced; one
-            by one the eggs were transferred from their test–tubes to the larger
-            containers; deftly the peritoneal lining was slit, the morula dropped into
-            place, the saline solution poured in…and already the bottle had passed, and
-            it was the turn of the labellers. Heredity, date of fertilization, membership
-            of Bokanovsky Group–details were transferred from test–tube to bottle. No
-            longer anonymous, but named, identified, the procession marched slowly on; on
-            through an opening in the wall, slowly on into the Social Predestination Room.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Eighty–eight cubic metres of card–index,"</p><p data-character="narrator" data-gender="m" emotion="none"> said Mr. Foster with relish, as
-            they entered.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Containing all the relevant information,"</p><p data-character="narrator" data-gender="m" emotion="none"> added the Director.</p><p data-character="narrator" data-gender="m" emotion="none">"Brought up to date every morning."</p><p data-character="narrator" data-gender="m" emotion="none">"And co–ordinated every afternoon."</p><p data-character="narrator" data-gender="m" emotion="none">"On the basis of which they make their calculations."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "So many individuals, of such and such quality,"</p><p data-character="narrator" data-gender="m" emotion="none"> said Mr. Foster.</p><p data-character="narrator" data-gender="m" emotion="none">"Distributed in such and such quantities."</p><p data-character="narrator" data-gender="m" emotion="none">"The optimum Decanting Rate at any given moment."</p><p data-character="narrator" data-gender="m" emotion="none">"Unforeseen wastages promptly made good."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Promptly,""If you knew the amount of overtime I had
-            to put in after the last Japanese earthquake!"</p><p data-character="narrator" data-gender="m" emotion="none">"The Predestinators send in their figures to the Fertilizers."</p><p data-character="narrator" data-gender="m" emotion="none">"Who give them the embryos they ask for."</p><p data-character="narrator" data-gender="m" emotion="none">"And the bottles come in here to be predestined in detail."</p><p data-character="narrator" data-gender="m" emotion="none">"After which they are sent down to the Embryo Store."</p><p data-character="narrator" data-gender="m" emotion="none">"Where we now proceed ourselves."</p><p data-character="narrator" data-gender="m" emotion="none">And opening a door Mr. Foster led the way down a staircase into the
-            basement.</p><p data-character="narrator" data-gender="m" emotion="none">The temperature was still tropical. They descended into a thickening
-            twilight. Two doors and a passage with a double turn insured the cellar
-            against any possible infiltration of the day.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Embryos are like photograph film,""They can only stand red light."</p><p data-character="narrator" data-gender="m" emotion="none">And in effect the sultry darkness into which the students now followed him
-            was visible and crimson, like the darkness of closed eyes on a summer's
-            afternoon. The bulging flanks of row on receding row and tier above tier of
-            bottles glinted with innumerable rubies, and among the rubies moved the dim
-            red spectres of men and women with purple eyes and all the symptoms of lupus.
-            The hum and rattle of machinery faintly stirred the air.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Give them a few figures, Mr. Foster,"</p><p data-character="narrator" data-gender="m" emotion="none"> said the Director, who was tired of
-            talking.</p><p data-character="narrator" data-gender="m" emotion="none">Mr. Foster was only too happy to give them a few figures.</p><p data-character="narrator" data-gender="m" emotion="none">Two hundred and twenty metres long, two hundred wide, ten high. He pointed
-            upwards. Like chickens drinking, the students lifted their eyes towards the
-            distant ceiling.</p><p data-character="narrator" data-gender="m" emotion="none">Three tiers of racks: ground floor level, first gallery, second gallery.</p><p data-character="narrator" data-gender="m" emotion="none">The spidery steel–work of gallery above gallery faded away in all
-            directions into the dark. Near them three red ghosts were busily unloading
-            demijohns from a moving staircase.</p><p data-character="narrator" data-gender="m" emotion="none">The escalator from the Social Predestination Room.</p><p data-character="narrator" data-gender="m" emotion="none">Each bottle could be placed on one of fifteen racks, each rack, though you
-            couldn't see it, was a conveyor traveling at the rate of thirty–three and a
-            third centimetres an hour. Two hundred and sixty–seven days at eight metres a
-            day. Two thousand one hundred and thirty–six metres in all. One circuit of the
-            cellar at ground level, one on the first gallery, half on the second, and on
-            the two hundred and sixty–seventh morning, daylight in the Decanting Room.
-            Independent existence–so called.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "But in the interval,""we've managed to do a lot to
-            them. Oh, a very great deal."</p><p data-character="the director" data-gender="m" emotion="none">the director: "That's the spirit I like,""Let's walk
-            around. You tell them everything, Mr. Foster."</p><p data-character="narrator" data-gender="m" emotion="none">Mr. Foster duly told them.</p><p data-character="narrator" data-gender="m" emotion="none">Told them of the growing embryo on its bed of peritoneum. Made them taste
-            the rich blood surrogate on which it fed. Explained why it had to be
-            stimulated with placentin and thyroxin. Told them of the corpus
-                    luteum
-            extract. Showed them the jets through which at every twelfth metre from zero
-            to 2040 it was automatically injected. Spoke of those gradually increasing
-            doses of pituitary administered during the final ninety–six metres of their
-            course. Described the artificial maternal circulation installed in every
-            bottle at Metre 112; showed them the reservoir of blood–surrogate, the
-            centrifugal pump that kept the liquid moving over the placenta and drove it
-            through the synthetic lung and waste product filter. Referred to the embryo's
-            troublesome tendency to anæmia, to the massive doses of hog's stomach extract
-            and foetal foal's liver with which, in consequence, it had to be supplied.</p><p data-character="narrator" data-gender="m" emotion="none">Showed them the simple mechanism by means of which, during the last two
-            metres out of every eight, all the embryos were simultaneously shaken into
-            familiarity with movement. Hinted at the gravity of the so–called "trauma of
-            decanting," and enumerated the precautions taken to minimize, by a suitable
-            training of the bottled embryo, that dangerous shock. Told them of the test
-            for sex carried out in the neighborhood of Metre 200. Explained the system of
-            labelling–a T for the males, a circle for the females and for those who were
-            destined to become freemartins a question mark, black on a white ground.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "For of course,""in the vast majority of cases,
-            fertility is merely a nuisance. One fertile ovary in twelve hundred–that would
-            really be quite sufficient for our purposes. But we want to have a good
-            choice. And of course one must always have an enormous margin of safety. So we
-            allow as many as thirty per cent of the female embryos to develop normally.
-            The others get a dose of male sex–hormone every twenty–four metres for the
-            rest of the course. Result: they're decanted as freemartins–structurally quite
-            normal (except,""that they do have the slightest tendency to
-            grow beards), but sterile. Guaranteed sterile. Which brings us at last,""out of the realm of mere slavish imitation of nature
-            into the much more interesting world of human invention."</p><p data-character="narrator" data-gender="m" emotion="none">He rubbed his hands. For of course, they didn't content themselves with
-            merely hatching out embryos: any cow could do that.</p><p data-character="narrator" data-gender="m" emotion="none">"We also predestine and condition. We decant our babies as socialized
-            human beings, as Alphas or Epsilons, as future sewage workers or future…" He
-            was going to say "future World controllers," but correcting himself, said
-            "future Directors of Hatcheries," instead.</p><p data-character="narrator" data-gender="m" emotion="none">The D.H.C. acknowledged the compliment with a smile.</p><p data-character="narrator" data-gender="m" emotion="none">They were passing Metre 320 on Rack 11. A young Beta–Minus mechanic was
-            busy with screw–driver and spanner on the blood–surrogate pump of a passing
-            bottle. The hum of the electric motor deepened by fractions of a tone as he
-            turned the nuts. Down, down…A final twist, a glance at the revolution
-            counter, and he was done. He moved two paces down the line and began the same
-            process on the next pump.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Reducing the number of revolutions per minute,""The surrogate goes round slower; therefore passes through the lung at longer
-            intervals; therefore gives the embryo less oxygen. Nothing like
-            oxygen–shortage for keeping an embryo below par."</p><p data-character="narrator" data-gender="m" emotion="none">"But why do you want to keep the embryo below par?" asked an ingenuous
-            student.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Ass!""Hasn't it occurred to
-            you that an Epsilon embryo must have an Epsilon environment as well as an
-            Epsilon heredity?"</p><p data-character="narrator" data-gender="m" emotion="none">It evidently hadn't occurred to him. He was covered with confusion.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "The lower the caste,""the shorter the oxygen."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Who are no use at all,"</p><p data-character="narrator" data-gender="m" emotion="none"> concluded Mr. Foster.</p><p data-character="narrator" data-gender="m" emotion="none">Whereas (his voice became confidential and eager), if they could discover
-            a technique for shortening the period of maturation what a triumph, what a
-            benefaction to Society!</p><p data-character="narrator" data-gender="m" emotion="none">"Consider the horse."</p><p data-character="narrator" data-gender="m" emotion="none">They considered it.</p><p data-character="narrator" data-gender="m" emotion="none">Mature at six; the elephant at ten. While at thirteen a man is not yet
-            sexually mature; and is only full–grown at twenty. Hence, of course, that
-            fruit of delayed development, the human intelligence.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "But in Epsilons,""we don't need human
-            intelligence."</p><p data-character="narrator" data-gender="m" emotion="none">Didn't need and didn't get it. But though the Epsilon mind was mature at
-            ten, the Epsilon body was not fit to work till eighteen. Long years of
-            superfluous and wasted immaturity. If the physical development could be
-            speeded up till it was as quick, say, as a cow's, what an enormous saving to
-            the Community!</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Enormous!"</p><p data-character="narrator" data-gender="m" emotion="none"> murmured the students. Mr. Foster's enthusiasm was infectious.</p><p data-character="narrator" data-gender="m" emotion="none">He became rather technical; spoke of the abnormal endocrine co–ordination
-            which made men grow so slowly; postulated a germinal mutation to account for
-            it. Could the effects of this germinal mutation be undone? Could the
-            individual Epsilon embryo be made a revert, by a suitable technique, to the
-            normality of dogs and cows? That was the problem. And it was all but solved.</p><p data-character="narrator" data-gender="m" emotion="none">Pilkington, at Mombasa, had produced individuals who were sexually mature
-            at four and full–grown at six and a half. A scientific triumph. But socially
-            useless. Six–year–old men and women were too stupid to do even Epsilon work.
-            And the process was an all–or–nothing one; either you failed to modify at all,
-            or else you modified the whole way. They were still trying to find the ideal
-            compromise between adults of twenty and adults of six. So far without success.
-            Mr. Foster sighed and shook his head.</p><p data-character="narrator" data-gender="m" emotion="none">Their wanderings through the crimson twilight had brought them to the
-            neighborhood of Metre 170 on Rack 9. From this point onwards Rack 9 was
-            enclosed and the bottle performed the remainder of their journey in a kind of
-            tunnel, interrupted here and there by openings two or three metres wide.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Heat conditioning,"</p><p data-character="narrator" data-gender="m" emotion="none"> said Mr. Foster.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "We
-            condition them to thrive on heat,""Our colleagues
-            upstairs will teach them to love it."</p><p data-character="the director" data-gender="m" emotion="none">the director: "And that,""that is the secret of
-            happiness and virtue–liking what you've got to do. All conditioning aims at
-            that: making people like their unescapable social destiny."</p><p data-character="narrator" data-gender="m" emotion="none">In a gap between two tunnels, a nurse was delicately probing with a long
-            fine syringe into the gelatinous contents of a passing bottle. The students
-            and their guides stood watching her for a few moments in silence.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Well, Lenina,"</p><p data-character="narrator" data-gender="m" emotion="none"> said Mr. Foster, when at last she withdrew the syringe and
-            straightened herself up.</p><p data-character="narrator" data-gender="m" emotion="none">The girl turned with a start. One could see that, for all the lupus and
-            the purple eyes, she was uncommonly pretty.</p><p data-character="narrator" data-gender="m" emotion="none">"Henry!" Her smile flashed redly at him–a row of coral teeth.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Charming, charming,"</p><p data-character="narrator" data-gender="m" emotion="none"> murmured the Director and, giving her two or three
-            little pats, received in exchange a rather deferential smile for himself.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "What are you giving them?"</p><p data-character="narrator" data-gender="m" emotion="none"> asked Mr. Foster, making his tone very
-            professional.</p><p data-character="narrator" data-gender="m" emotion="none">"Oh, the usual typhoid and sleeping sickness."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Tropical workers start being inoculated at Metre 150,""The embryos still have gills. We immunize the fish
-            against the future man's diseases.""Ten to five
-            on the roof this afternoon,""as usual."</p><p data-character="the director" data-gender="m" emotion="none">the director: "Charming,"</p><p data-character="narrator" data-gender="m" emotion="none"> said the Director once more, and, with a final pat, moved away
-            after the others.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "To improve their sense of balance,""Doing repairs on the outside of a rocket in mid–air is a ticklish
-            job. We slacken off the circulation when they're right way up, so that they're
-            half starved, and double the flow of surrogate when they're upside down. They
-            learn to associate topsy–turvydom with well–being; in fact, they're only truly
-            happy when they're standing on their heads.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "And now,""I'd like to show you some very interesting
-            conditioning for Alpha Plus Intellectuals. We have a big batch of them on Rack
-            5. First Gallery level,"</p><p data-character="narrator" data-gender="m" emotion="none">"They're round about Metre 900," he explained. "You can't really do any
-            useful intellectual conditioning till the foetuses have lost their tails.
-            Follow me."</p><p data-character="the director" data-gender="m" emotion="none">the director: "Ten to three,""No
-            time for the intellectual embryos, I'm afraid. We must go up to the Nurseries
-            before the children have finished their afternoon sleep."</p><p data-character="narrator" data-gender="m" emotion="none">Mr. Foster was disappointed. </p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "At least one glance at the Decanting Room,"</p><p data-character="narrator" data-gender="m" emotion="none">
-            he pleaded.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Very well then.""Just one glance."</p><p data-character="narrator" data-gender="m" emotion="none">A squat grey building of only thirty–four stories. Over
-            the main entrance the words, CENTRAL LONDON HATCHERY AND CONDITIONING CENTRE,
-            and, in a shield, the World State's motto, COMMUNITY, IDENTITY, STABILITY.
-        </p><p data-character="narrator" data-gender="m" emotion="none">The enormous room on the ground floor faced towards the north. Cold for
-            all the summer beyond the panes, for all the tropical heat of the room itself,
-            a harsh thin light glared through the windows, hungrily seeking some draped
-            lay figure, some pallid shape of academic goose–flesh, but finding only the
-            glass and nickel and bleakly shining porcelain of a laboratory. Wintriness
-            responded to wintriness. The overalls of the workers were white, their hands
-            gloved with a pale corpse–coloured rubber. The light was frozen, dead, a
-            ghost. Only from the yellow barrels of the microscopes did it borrow a certain
-            rich and living substance, lying along the polished tubes like butter, streak
-            after luscious streak in long recession down the work tables.</p><p data-character="the director" data-gender="m" emotion="none">the director: "And this,""is the Fertilizing Room."</p><p data-character="narrator" data-gender="m" emotion="none">Bent over their instruments, three hundred Fertilizers were plunged, as
-            the Director of Hatcheries and Conditioning entered the room, in the scarcely
-            breathing silence, the absent–minded, soliloquizing hum or whistle, of
-            absorbed concentration. A troop of newly arrived students, very young, pink
-            and callow, followed nervously, rather abjectly, at the Director's heels. Each
-            of them carried a notebook, in which, whenever the great man spoke, he
-            desperately scribbled. Straight from the horse's mouth. It was a rare
-            privilege. The D. H. C. for Central London always made a point of personally
-            conducting his new students round the various departments.</p><p data-character="narrator" data-gender="m" emotion="none">"Just to give you a general idea," he would explain to them. For of course
-            some sort of general idea they must have, if they were to do their work
-            intelligently–though as little of one, if they were to be good and happy
-            members of society, as possible. For particulars, as every one knows, make for
-            virtue and happiness; generalities are intellectually necessary evils. Not
-            philosophers but fret–sawyers and stamp collectors compose the backbone of
-            society.</p><p data-character="narrator" data-gender="m" emotion="none">"To–morrow," he would add, smiling at them with a slightly menacing
-            geniality, "you'll be settling down to serious work. You won't have time for
-            generalities. Meanwhile…"</p><p data-character="narrator" data-gender="m" emotion="none">Meanwhile, it was a privilege. Straight from the horse's mouth into the
-            notebook. The boys scribbled like mad.</p><p data-character="narrator" data-gender="m" emotion="none">Tall and rather thin but upright, the Director advanced into the room. He
-            had a long chin and big rather prominent teeth, just covered, when he was not
-            talking, by his full, floridly curved lips. Old, young? Thirty? Fifty?
-            Fifty–five? It was hard to say. And anyhow the question didn't arise; in this
-            year of stability, A. F. 632, it didn't occur to you to ask it.</p><p data-character="narrator" data-gender="m" emotion="none">"I shall begin at the beginning," said the D.H.C. and the more zealous
-            students recorded his intention in their notebooks: Begin at the
-                    beginning. "These," he waved his hand, "are the incubators." And opening
-            an insulated door he showed them racks upon racks of numbered test–tubes. "The
-            week's supply of ova. Kept," he explained, "at blood heat; whereas the male
-            gametes," and here he opened another door, "they have to be kept at
-            thirty–five instead of thirty–seven. Full blood heat sterilizes." Rams wrapped
-            in theremogene beget no lambs.</p><p data-character="narrator" data-gender="m" emotion="none">Still leaning against the incubators he gave them, while the pencils
-            scurried illegibly across the pages, a brief description of the modern
-            fertilizing process; spoke first, of course, of its surgical introduction–"the
-            operation undergone voluntarily for the good of Society, not to mention the
-            fact that it carries a bonus amounting to six months' salary"; continued with
-            some account of the technique for preserving the excised ovary alive and
-            actively developing; passed on to a consideration of optimum temperature,
-            salinity, viscosity; referred to the liquor in which the detached and ripened
-            eggs were kept; and, leading his charges to the work tables, actually showed
-            them how this liquor was drawn off from the test–tubes; how it was let out
-            drop by drop onto the specially warmed slides of the microscopes; how the eggs
-            which it contained were inspected for abnormalities, counted and transferred
-            to a porous receptacle; how (and he now took them to watch the operation) this
-            receptacle was immersed in a warm bouillon containing free–swimming
-            spermatozoa–at a minimum concentration of one hundred thousand per cubic
-            centimetre, he insisted; and how, after ten minutes, the container was lifted
-            out of the liquor and its contents re–examined; how, if any of the eggs
-            remained unfertilized, it was again immersed, and, if necessary, yet again;
-            how the fertilized ova went back to the incubators; where the Alphas and Betas
-            remained until definitely bottled; while the Gammas, Deltas and Epsilons were
-            brought out again, after only thirty–six hours, to undergo Bokanovsky's
-            Process.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Bokanovsky's Process,"</p><p data-character="narrator" data-gender="m" emotion="none"> repeated the Director, and the students underlined
-            the words in their little notebooks.</p><p data-character="narrator" data-gender="m" emotion="none">One egg, one embryo, one adult–normality. But a bokanovskified egg will
-            bud, will proliferate, will divide. From eight to ninety–six buds, and every
-            bud will grow into a perfectly formed embryo, and every embryo into a
-            full–sized adult. Making ninety–six human beings grow where only one grew
-            before. Progress.</p><p data-character="narrator" data-gender="m" emotion="none">"Essentially," the D.H.C. concluded, "bokanovskification consists of a
-            series of arrests of development. We check the normal growth and,
-            paradoxically enough, the egg responds by budding."</p><p data-character="narrator" data-gender="m" emotion="none">Responds by budding. The pencils were busy.</p><p data-character="narrator" data-gender="m" emotion="none">He pointed. On a very slowly moving band a rack–full of test–tubes was
-            entering a large metal box, another, rack–full was emerging. Machinery faintly
-            purred. It took eight minutes for the tubes to go through, he told them. Eight
-            minutes of hard X–rays being about as much as an egg can stand. A few died; of
-            the rest, the least susceptible divided into two; most put out four buds; some
-            eight; all were returned to the incubators, where the buds began to develop;
-            then, after two days, were suddenly chilled, chilled and checked. Two, four,
-            eight, the buds in their turn budded; and having budded were dosed almost to
-            death with alcohol; consequently burgeoned again and having budded–bud out of
-            bud out of bud–were thereafter–further arrest being generally fatal–left to
-            develop in peace. By which time the original egg was in a fair way to becoming
-            anything from eight to ninety–six embryos– a prodigious improvement, you will
-            agree, on nature. Identical twins–but not in piddling twos and threes as in
-            the old viviparous days, when an egg would sometimes accidentally divide;
-            actually by dozens, by scores at a time.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Scores,""Scores."</p><p data-character="narrator" data-gender="m" emotion="none">But one of the students was fool enough to ask where the advantage lay.</p><p data-character="the director" data-gender="m" emotion="none">the director: "My good boy!""Can't you see?
-            Can't you see?""Bokanovsky's
-            Process is one of the major instruments of social stability!"</p><p data-character="narrator" data-gender="m" emotion="none">Major instruments of social stability.</p><p data-character="narrator" data-gender="m" emotion="none">Standard men and women; in uniform batches. The whole of a small factory
-            staffed with the products of a single bokanovskified egg.</p><p data-character="narrator" data-gender="m" emotion="none">"Ninety–six identical twins working ninety–six identical machines!" The
-            voice was almost tremulous with enthusiasm. "You really know where you are.
-            For the first time in history." He quoted the planetary motto. "Community,
-            Identity, Stability." Grand words. "If we could bokanovskify indefinitely the
-            whole problem would be solved."</p><p data-character="narrator" data-gender="m" emotion="none">Solved by standard Gammas, unvarying Deltas, uniform Epsilons. Millions of
-            identical twins. The principle of mass production at last applied to biology.</p><p data-character="the director" data-gender="m" emotion="none">the director: "But, alas,""we can't bokanovskify
-            indefinitely."</p><p data-character="narrator" data-gender="m" emotion="none">Ninety–six seemed to be the limit; seventy–two a good average. From the
-            same ovary and with gametes of the same male to manufacture as many batches of
-            identical twins as possible–that was the best (sadly a second best) that they
-            could do. And even that was difficult.</p><p data-character="narrator" data-gender="m" emotion="none">"For in nature it takes thirty years for two hundred eggs to reach
-            maturity. But our business is to stabilize the population at this moment, here
-            and now. Dribbling out twins over a quarter of a century–what would be the use
-            of that?"</p><p data-character="narrator" data-gender="m" emotion="none">Obviously, no use at all. But Podsnap's Technique had immensely
-            accelerated the process of ripening. They could make sure of at least a
-            hundred and fifty mature eggs within two years. Fertilize and bokanovskify–in
-            other words, multiply by seventy–two–and you get an average of nearly eleven
-            thousand brothers and sisters in a hundred and fifty batches of identical
-            twins, all within two years of the same age.</p><p data-character="narrator" data-gender="m" emotion="none">"And in exceptional cases we can make one ovary yield us over fifteen
-            thousand adult individuals."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Mr. Foster,""Can you
-            tell us the record for a single ovary, Mr. Foster?"</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Sixteen thousand and twelve in this Centre,""Sixteen thousand and twelve; in one
-            hundred and eighty–nine batches of identicals. But of course they've done much
-            better,""in some of the tropical Centres. Singapore has often
-            produced over sixteen thousand five hundred; and Mombasa has actually touched
-            the seventeen thousand mark. But then they have unfair advantages. You should
-            see the way a negro ovary responds to pituitary! It's quite astonishing, when
-            you're used to working with European material. Still,""still, we mean to beat them if we can. I'm working on a
-            wonderful Delta–Minus ovary at this moment. Only just eighteen months old.
-            Over twelve thousand seven hundred children already, either decanted or in
-            embryo. And still going strong. We'll beat them yet."</p><p data-character="the director" data-gender="m" emotion="none">the director: "That's the spirit I like!""Come along with us, and give these boys the benefit of your
-            expert knowledge."</p><p data-character="narrator" data-gender="m" emotion="none">Mr. Foster smiled modestly. </p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "With pleasure."</p><p data-character="narrator" data-gender="m" emotion="none"> They went.</p><p data-character="narrator" data-gender="m" emotion="none">In the Bottling Room all was harmonious bustle and ordered activity. Flaps
-            of fresh sow's peritoneum ready cut to the proper size came shooting up in
-            little lifts from the Organ Store in the sub–basement. Whizz and then, click!
-            the lift–hatches hew open; the bottle–liner had only to reach out a hand, take
-            the flap, insert, smooth–down, and before the lined bottle had had time to
-            travel out of reach along the endless band, whizz, click! another flap of
-            peritoneum had shot up from the depths, ready to be slipped into yet another
-            bottle, the next of that slow interminable procession on the band.</p><p data-character="narrator" data-gender="m" emotion="none">Next to the Liners stood the Matriculators. The procession advanced; one
-            by one the eggs were transferred from their test–tubes to the larger
-            containers; deftly the peritoneal lining was slit, the morula dropped into
-            place, the saline solution poured in…and already the bottle had passed, and
-            it was the turn of the labellers. Heredity, date of fertilization, membership
-            of Bokanovsky Group–details were transferred from test–tube to bottle. No
-            longer anonymous, but named, identified, the procession marched slowly on; on
-            through an opening in the wall, slowly on into the Social Predestination Room.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Eighty–eight cubic metres of card–index,"</p><p data-character="narrator" data-gender="m" emotion="none"> said Mr. Foster with relish, as
-            they entered.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Containing all the relevant information,"</p><p data-character="narrator" data-gender="m" emotion="none"> added the Director.</p><p data-character="narrator" data-gender="m" emotion="none">"Brought up to date every morning."</p><p data-character="narrator" data-gender="m" emotion="none">"And co–ordinated every afternoon."</p><p data-character="narrator" data-gender="m" emotion="none">"On the basis of which they make their calculations."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "So many individuals, of such and such quality,"</p><p data-character="narrator" data-gender="m" emotion="none"> said Mr. Foster.</p><p data-character="narrator" data-gender="m" emotion="none">"Distributed in such and such quantities."</p><p data-character="narrator" data-gender="m" emotion="none">"The optimum Decanting Rate at any given moment."</p><p data-character="narrator" data-gender="m" emotion="none">"Unforeseen wastages promptly made good."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Promptly,""If you knew the amount of overtime I had
-            to put in after the last Japanese earthquake!"</p><p data-character="narrator" data-gender="m" emotion="none">"The Predestinators send in their figures to the Fertilizers."</p><p data-character="narrator" data-gender="m" emotion="none">"Who give them the embryos they ask for."</p><p data-character="narrator" data-gender="m" emotion="none">"And the bottles come in here to be predestined in detail."</p><p data-character="narrator" data-gender="m" emotion="none">"After which they are sent down to the Embryo Store."</p><p data-character="narrator" data-gender="m" emotion="none">"Where we now proceed ourselves."</p><p data-character="narrator" data-gender="m" emotion="none">And opening a door Mr. Foster led the way down a staircase into the
-            basement.</p><p data-character="narrator" data-gender="m" emotion="none">The temperature was still tropical. They descended into a thickening
-            twilight. Two doors and a passage with a double turn insured the cellar
-            against any possible infiltration of the day.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Embryos are like photograph film,""They can only stand red light."</p><p data-character="narrator" data-gender="m" emotion="none">And in effect the sultry darkness into which the students now followed him
-            was visible and crimson, like the darkness of closed eyes on a summer's
-            afternoon. The bulging flanks of row on receding row and tier above tier of
-            bottles glinted with innumerable rubies, and among the rubies moved the dim
-            red spectres of men and women with purple eyes and all the symptoms of lupus.
-            The hum and rattle of machinery faintly stirred the air.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Give them a few figures, Mr. Foster,"</p><p data-character="narrator" data-gender="m" emotion="none"> said the Director, who was tired of
-            talking.</p><p data-character="narrator" data-gender="m" emotion="none">Mr. Foster was only too happy to give them a few figures.</p><p data-character="narrator" data-gender="m" emotion="none">Two hundred and twenty metres long, two hundred wide, ten high. He pointed
-            upwards. Like chickens drinking, the students lifted their eyes towards the
-            distant ceiling.</p><p data-character="narrator" data-gender="m" emotion="none">Three tiers of racks: ground floor level, first gallery, second gallery.</p><p data-character="narrator" data-gender="m" emotion="none">The spidery steel–work of gallery above gallery faded away in all
-            directions into the dark. Near them three red ghosts were busily unloading
-            demijohns from a moving staircase.</p><p data-character="narrator" data-gender="m" emotion="none">The escalator from the Social Predestination Room.</p><p data-character="narrator" data-gender="m" emotion="none">Each bottle could be placed on one of fifteen racks, each rack, though you
-            couldn't see it, was a conveyor traveling at the rate of thirty–three and a
-            third centimetres an hour. Two hundred and sixty–seven days at eight metres a
-            day. Two thousand one hundred and thirty–six metres in all. One circuit of the
-            cellar at ground level, one on the first gallery, half on the second, and on
-            the two hundred and sixty–seventh morning, daylight in the Decanting Room.
-            Independent existence–so called.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "But in the interval,""we've managed to do a lot to
-            them. Oh, a very great deal."</p><p data-character="the director" data-gender="m" emotion="none">the director: "That's the spirit I like,""Let's walk
-            around. You tell them everything, Mr. Foster."</p><p data-character="narrator" data-gender="m" emotion="none">Mr. Foster duly told them.</p><p data-character="narrator" data-gender="m" emotion="none">Told them of the growing embryo on its bed of peritoneum. Made them taste
-            the rich blood surrogate on which it fed. Explained why it had to be
-            stimulated with placentin and thyroxin. Told them of the corpus
-                    luteum
-            extract. Showed them the jets through which at every twelfth metre from zero
-            to 2040 it was automatically injected. Spoke of those gradually increasing
-            doses of pituitary administered during the final ninety–six metres of their
-            course. Described the artificial maternal circulation installed in every
-            bottle at Metre 112; showed them the reservoir of blood–surrogate, the
-            centrifugal pump that kept the liquid moving over the placenta and drove it
-            through the synthetic lung and waste product filter. Referred to the embryo's
-            troublesome tendency to anæmia, to the massive doses of hog's stomach extract
-            and foetal foal's liver with which, in consequence, it had to be supplied.</p><p data-character="narrator" data-gender="m" emotion="none">Showed them the simple mechanism by means of which, during the last two
-            metres out of every eight, all the embryos were simultaneously shaken into
-            familiarity with movement. Hinted at the gravity of the so–called "trauma of
-            decanting," and enumerated the precautions taken to minimize, by a suitable
-            training of the bottled embryo, that dangerous shock. Told them of the test
-            for sex carried out in the neighborhood of Metre 200. Explained the system of
-            labelling–a T for the males, a circle for the females and for those who were
-            destined to become freemartins a question mark, black on a white ground.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "For of course,""in the vast majority of cases,
-            fertility is merely a nuisance. One fertile ovary in twelve hundred–that would
-            really be quite sufficient for our purposes. But we want to have a good
-            choice. And of course one must always have an enormous margin of safety. So we
-            allow as many as thirty per cent of the female embryos to develop normally.
-            The others get a dose of male sex–hormone every twenty–four metres for the
-            rest of the course. Result: they're decanted as freemartins–structurally quite
-            normal (except,""that they do have the slightest tendency to
-            grow beards), but sterile. Guaranteed sterile. Which brings us at last,""out of the realm of mere slavish imitation of nature
-            into the much more interesting world of human invention."</p><p data-character="narrator" data-gender="m" emotion="none">He rubbed his hands. For of course, they didn't content themselves with
-            merely hatching out embryos: any cow could do that.</p><p data-character="narrator" data-gender="m" emotion="none">"We also predestine and condition. We decant our babies as socialized
-            human beings, as Alphas or Epsilons, as future sewage workers or future…" He
-            was going to say "future World controllers," but correcting himself, said
-            "future Directors of Hatcheries," instead.</p><p data-character="narrator" data-gender="m" emotion="none">The D.H.C. acknowledged the compliment with a smile.</p><p data-character="narrator" data-gender="m" emotion="none">They were passing Metre 320 on Rack 11. A young Beta–Minus mechanic was
-            busy with screw–driver and spanner on the blood–surrogate pump of a passing
-            bottle. The hum of the electric motor deepened by fractions of a tone as he
-            turned the nuts. Down, down…A final twist, a glance at the revolution
-            counter, and he was done. He moved two paces down the line and began the same
-            process on the next pump.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Reducing the number of revolutions per minute,""The surrogate goes round slower; therefore passes through the lung at longer
-            intervals; therefore gives the embryo less oxygen. Nothing like
-            oxygen–shortage for keeping an embryo below par."</p><p data-character="narrator" data-gender="m" emotion="none">"But why do you want to keep the embryo below par?" asked an ingenuous
-            student.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Ass!""Hasn't it occurred to
-            you that an Epsilon embryo must have an Epsilon environment as well as an
-            Epsilon heredity?"</p><p data-character="narrator" data-gender="m" emotion="none">It evidently hadn't occurred to him. He was covered with confusion.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "The lower the caste,""the shorter the oxygen."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Who are no use at all,"</p><p data-character="narrator" data-gender="m" emotion="none"> concluded Mr. Foster.</p><p data-character="narrator" data-gender="m" emotion="none">Whereas (his voice became confidential and eager), if they could discover
-            a technique for shortening the period of maturation what a triumph, what a
-            benefaction to Society!</p><p data-character="narrator" data-gender="m" emotion="none">"Consider the horse."</p><p data-character="narrator" data-gender="m" emotion="none">They considered it.</p><p data-character="narrator" data-gender="m" emotion="none">Mature at six; the elephant at ten. While at thirteen a man is not yet
-            sexually mature; and is only full–grown at twenty. Hence, of course, that
-            fruit of delayed development, the human intelligence.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "But in Epsilons,""we don't need human
-            intelligence."</p><p data-character="narrator" data-gender="m" emotion="none">Didn't need and didn't get it. But though the Epsilon mind was mature at
-            ten, the Epsilon body was not fit to work till eighteen. Long years of
-            superfluous and wasted immaturity. If the physical development could be
-            speeded up till it was as quick, say, as a cow's, what an enormous saving to
-            the Community!</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Enormous!"</p><p data-character="narrator" data-gender="m" emotion="none"> murmured the students. Mr. Foster's enthusiasm was infectious.</p><p data-character="narrator" data-gender="m" emotion="none">He became rather technical; spoke of the abnormal endocrine co–ordination
-            which made men grow so slowly; postulated a germinal mutation to account for
-            it. Could the effects of this germinal mutation be undone? Could the
-            individual Epsilon embryo be made a revert, by a suitable technique, to the
-            normality of dogs and cows? That was the problem. And it was all but solved.</p><p data-character="narrator" data-gender="m" emotion="none">Pilkington, at Mombasa, had produced individuals who were sexually mature
-            at four and full–grown at six and a half. A scientific triumph. But socially
-            useless. Six–year–old men and women were too stupid to do even Epsilon work.
-            And the process was an all–or–nothing one; either you failed to modify at all,
-            or else you modified the whole way. They were still trying to find the ideal
-            compromise between adults of twenty and adults of six. So far without success.
-            Mr. Foster sighed and shook his head.</p><p data-character="narrator" data-gender="m" emotion="none">Their wanderings through the crimson twilight had brought them to the
-            neighborhood of Metre 170 on Rack 9. From this point onwards Rack 9 was
-            enclosed and the bottle performed the remainder of their journey in a kind of
-            tunnel, interrupted here and there by openings two or three metres wide.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Heat conditioning,"</p><p data-character="narrator" data-gender="m" emotion="none"> said Mr. Foster.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "We
-            condition them to thrive on heat,""Our colleagues
-            upstairs will teach them to love it."</p><p data-character="the director" data-gender="m" emotion="none">the director: "And that,""that is the secret of
-            happiness and virtue–liking what you've got to do. All conditioning aims at
-            that: making people like their unescapable social destiny."</p><p data-character="narrator" data-gender="m" emotion="none">In a gap between two tunnels, a nurse was delicately probing with a long
-            fine syringe into the gelatinous contents of a passing bottle. The students
-            and their guides stood watching her for a few moments in silence.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Well, Lenina,"</p><p data-character="narrator" data-gender="m" emotion="none"> said Mr. Foster, when at last she withdrew the syringe and
-            straightened herself up.</p><p data-character="narrator" data-gender="m" emotion="none">The girl turned with a start. One could see that, for all the lupus and
-            the purple eyes, she was uncommonly pretty.</p><p data-character="narrator" data-gender="m" emotion="none">"Henry!" Her smile flashed redly at him–a row of coral teeth.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Charming, charming,"</p><p data-character="narrator" data-gender="m" emotion="none"> murmured the Director and, giving her two or three
-            little pats, received in exchange a rather deferential smile for himself.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "What are you giving them?"</p><p data-character="narrator" data-gender="m" emotion="none"> asked Mr. Foster, making his tone very
-            professional.</p><p data-character="narrator" data-gender="m" emotion="none">"Oh, the usual typhoid and sleeping sickness."</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "Tropical workers start being inoculated at Metre 150,""The embryos still have gills. We immunize the fish
-            against the future man's diseases.""Ten to five
-            on the roof this afternoon,""as usual."</p><p data-character="the director" data-gender="m" emotion="none">the director: "Charming,"</p><p data-character="narrator" data-gender="m" emotion="none"> said the Director once more, and, with a final pat, moved away
-            after the others.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "To improve their sense of balance,""Doing repairs on the outside of a rocket in mid–air is a ticklish
-            job. We slacken off the circulation when they're right way up, so that they're
-            half starved, and double the flow of surrogate when they're upside down. They
-            learn to associate topsy–turvydom with well–being; in fact, they're only truly
-            happy when they're standing on their heads.</p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "And now,""I'd like to show you some very interesting
-            conditioning for Alpha Plus Intellectuals. We have a big batch of them on Rack
-            5. First Gallery level,"</p><p data-character="narrator" data-gender="m" emotion="none">"They're round about Metre 900," he explained. "You can't really do any
-            useful intellectual conditioning till the foetuses have lost their tails.
-            Follow me."</p><p data-character="the director" data-gender="m" emotion="none">the director: "Ten to three,""No
-            time for the intellectual embryos, I'm afraid. We must go up to the Nurseries
-            before the children have finished their afternoon sleep."</p><p data-character="narrator" data-gender="m" emotion="none">Mr. Foster was disappointed. </p><p data-character="mr. foster" data-gender="m" emotion="none">mr. foster: "At least one glance at the Decanting Room,"</p><p data-character="narrator" data-gender="m" emotion="none">
-            he pleaded.</p><p data-character="the director" data-gender="m" emotion="none">the director: "Very well then.""Just one glance."</p>
+            before the children have finished their afternoon sleep."</p><p data-character="narrator" data-gender="m" emotion="none" index="100">"</p><p data-character="narrator" data-gender="m" emotion="none" index="101">Mr. Foster was disappointed.</p><p data-character="mr. foster" data-gender="m" emotion="none" index="101">"At least one glance at the Decanting Room,"</p><p data-character="narrator" data-gender="m" emotion="none" index="101">"
+            he pleaded.</p><p data-character="the director" data-gender="m" emotion="none" index="102">"Very well then."</p><p data-character="narrator" data-gender="m" emotion="none" index="102">" The Director smiled indulgently.</p><p data-character="the director" data-gender="m" emotion="none" index="102">"Just one glance."</p><p data-character="narrator" data-gender="m" emotion="none" index="102">"</p>
