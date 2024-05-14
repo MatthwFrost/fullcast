@@ -1,0 +1,20 @@
+[
+  {
+    "name": "mr. foster",
+    "gender": "m",
+    "nationality": "british",
+    "features": ["brave", "emotional", "strong-willed"]
+  },
+  {
+    "name": "the director",
+    "gender": "m",
+    "nationality": "british",
+    "features": ["brave", "emotional", "strong-willed"]
+  },
+  {
+    "name": "the finisher",
+    "gender": "m",
+    "nationality": "british",
+    "features": ["brave", "emotional", "strong-willed"]
+  }
+]

@@ -4,7 +4,7 @@ class builder:
     """
         GOAL:
             Parse the book and output a format like in the example.
-            Then we can use this to automatically call the api. 
+            Then we can use this to automatically call the api.
 
         Example output:
             <director> Hello, how are you today?</director>
@@ -20,25 +20,25 @@ class builder:
         Problems:
             Code is very slow. I have no idea what the project will look yet
     """
-    def __init__(self, path: str, cast: dict):
+    def __init__(self, path: str, cast: list) -> None:
         self.path = path
         self.cast = cast
         self.writePath = "Ch01Example.xml"
 
-    def buildIntructions(self):
+    def buildIntructions(self) -> None:
 
         with open(self.path, 'r', encoding='utf-8') as file:
             html_content = file.read()
+            fikle.close()
 
         # Parse the HTML and then search for all p tags.
         soup = BeautifulSoup(html_content, features="xml")
         tag = soup.find_all('p')
         preCharacter = None
 
-        # Loop through the p tags, and get the text inside them.
+        # Loop through the tags, and get the text inside them.
         for content in tag:
             text = content.get_text()
-
             quote = self.findQuotes(text)                                           # Find a quote.
             character = self.findCharacter(text, quote, self.cast, preCharacter)    # Find the character speaking.
             narratorBefore, narratorAfter = self.getNarratorText(text, quote)       # Find the narrator speech.
@@ -46,7 +46,7 @@ class builder:
 
             self.writeOutput(quote, character, narratorBefore, narratorAfter, text)
 
-    def findQuotes(self, text):
+    def findQuotes(self, text: str) -> str:
         # TODO: Doesn't get narrator text between a quote.
         quote = ""
         inQuotes = False
@@ -59,7 +59,7 @@ class builder:
                 quote += char
         return quote
 
-    def findCharacter(self, text, quote, cast, preCharacter):
+    def findCharacter(self, text: str, quote: str, cast: list, preCharacter: dict) -> dict:
         text = text.replace(quote, '').lower()
 
         foundCharacter = None
@@ -74,7 +74,7 @@ class builder:
 
         return foundCharacter if foundCharacter else preCharacter
 
-    def getNarratorText(self, text, substring):
+    def getNarratorText(self, text: str, substring: str) -> str:
         index = text.find(substring)
         if index != -1:
             end_index = index + len(substring)
@@ -82,7 +82,7 @@ class builder:
         else:
             return None, None
 
-    def getEmotion(self):
+    def getEmotion(self) -> None:
         """
         Sentiment analysis? Is there anything else?
         This will be important.
@@ -90,7 +90,7 @@ class builder:
         """
         pass
 
-    def writeOutput(self, quote, character, narratorBefore, narratorAfter, text):
+    def writeOutput(self, quote: str, character: dict, narratorBefore: str, narratorAfter: str, text: str) -> None:
         # Improve output. Currently primitive.
         # Cast the output to a file with bash, ex python3 main.py > example.html <- Works for now.
         with open(self.writePath, "a") as f:
