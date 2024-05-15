@@ -45,7 +45,7 @@ class Stage:
 
             # Early loop exit for testing
             # TODO: REMOVE WHEN FULLY TESTING
-            if index == 5: break
+            if index == 15: break
 
             attrs = tag.attrs
             character = attrs['data-character']
@@ -55,18 +55,18 @@ class Stage:
 
     def fetchAudio(self, text, character):
         # Voice settings will be waited by the emotion.
-        print(f"FETCHING AUDIO - {text[:50]}...")
-        audio = self.client.generate(
-          text=text.strip(),
-          voice=Voice(
-              voice_id=self.voiceCharacter[character],
-              settings=VoiceSettings(stability=0.71, similarity_boost=0.6, style=0.6, use_speaker_boost=True)
-          ),
-          model="eleven_multilingual_v2"
-        )
+        if len(text) >= 1:
+            print(f"FETCHING AUDIO - {text[:50]}...")
+            audio = self.client.generate(
+              text=text.replace("\n", "").replace('"', '').strip(),
+              voice=Voice(
+                  voice_id=self.voiceCharacter[character],
+                  settings=VoiceSettings(stability=0.71, similarity_boost=0.6, style=0.6, use_speaker_boost=True)
+              ),
+              model="eleven_multilingual_v2" # I'm getting weird artifacts.
+            )
 
-        self.saveOutput(audio)
-
+            self.saveOutput(audio)
 
     def saveOutput(self, audio):
         """
